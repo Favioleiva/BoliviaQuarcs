@@ -1,0 +1,31 @@
+{
+  "dictionary_sha256": "94016f8bb5e97454fb3eef0de9fe42a1dfbf18e29c702a225e53e67b3b9dc5a2",
+  "rows": 29544,
+  "groups": {
+    "spatial": {
+      "localities": 28691,
+      "population": 8253463
+    },
+    "zero": {
+      "localities": 675,
+      "population": 0
+    },
+    "admin": {
+      "localities": 45,
+      "population": 10107
+    },
+    "accepted": {
+      "localities": 133,
+      "population": 10755
+    }
+  },
+  "assigned_localities": 28869,
+  "assigned_population": 8274325,
+  "zero_population_unassigned": 675,
+  "positive_population_unassigned": 0,
+  "target_municipalities": 339,
+  "nearest_polygon_assignments": 0,
+  "source": "FrozenPopulation2001/v1",
+  "point_source": "CDRN centros_poblados.zip; COD_BD_CEN",
+  "reference_geometry": "GeoBolivia 2015 / geo4bolivia 339"
+}

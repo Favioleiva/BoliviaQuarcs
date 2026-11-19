@@ -1,0 +1,106 @@
+{
+  "created": "2026-11-19T08:31:41.006544+00:00",
+  "status": "DELIVERED_AWAITING_HUMAN_REVIEW",
+  "years": [
+    1992,
+    2001,
+    2012,
+    2024
+  ],
+  "target_units": 339,
+  "panel_rows": 1356,
+  "totals": {
+    "1992": 6420792,
+    "2001": 8274325,
+    "2012": 10059856,
+    "2024": 11365333
+  },
+  "missing_population_values": 0,
+  "sources2024": 343,
+  "published_unchanged": 333,
+  "affected_sources": 10,
+  "reconstructed_targets": 6,
+  "new_assignments": [
+    {
+      "source_municipality_name": "TIOC-Raqaypampa",
+      "source_population": 8056,
+      "target_name_census2012": "Mizque",
+      "assigned_area_share": 0.9815428280971374,
+      "runner_up_name": "Aiquile",
+      "runner_up_area_share": 0.01316635700678591
+    },
+    {
+      "source_municipality_name": "San Pedro de Macha",
+      "source_population": 21011,
+      "target_name_census2012": "Colquechaca",
+      "assigned_area_share": 0.9865077568855415,
+      "runner_up_name": "Challapata",
+      "runner_up_area_share": 0.004578809943659697
+    },
+    {
+      "source_municipality_name": "TIOC-Jatun Ayllu Yura",
+      "source_population": 5819,
+      "target_name_census2012": "Tomave",
+      "assigned_area_share": 0.9592792137171999,
+      "runner_up_name": "Porco",
+      "runner_up_area_share": 0.038137053804584625
+    },
+    {
+      "source_municipality_name": "TIOC-Territorio Indígena Multiétnico",
+      "source_population": 3973,
+      "target_name_census2012": "San Ignacio",
+      "assigned_area_share": 0.6064244656808614,
+      "runner_up_name": "Santa Ana de Yacuma",
+      "runner_up_area_share": 0.3935755343191335
+    }
+  ],
+  "affected_source_population": 137289,
+  "new_unit_population": 38859,
+  "exact_target_iou_pass95": 291,
+  "classification_choice": "333 per published Mendez lookup, explicitly selected by human; simplified-geometry diagnostics do not override it",
+  "area_crs": "+proj=aea +lat_1=-11 +lat_2=-21 +lat_0=-16 +lon_0=-64 +datum=WGS84 +units=m",
+  "source_hashes": {
+    "Maps/GeoBolivia_2015_339/bolivia339geoqueryOpt.geojson": "52f50770b20fc8d73540151c1c625deec19ae712f44bcecb8ba2364f11620372",
+    "Outputs/Contract_01/Deliverables/Harmonization2001Pilot/population2001_mendez339_pilot.csv": "16dc2ee3dceafea1db06a73bdc250cd6378f5b53138b5e2de228715aafe1fadb",
+    "Outputs/Contract_01/Evidence/Sources/Mendez2024Conversion/raw/lookups/municipalities343.csv": "701f371b2d8359347ed43d76c9c2a3d2baefe67b4b5382c6724f9d481a39625c",
+    "Outputs/Contract_01/Deliverables/PopulationMaps/population_2024_provisional.gpkg": "7de863c8d932cd9db0433a9547cccc8f0977c07f0271ff6a718f64c324441b26",
+    "Outputs/Contract_01/Deliverables/FrozenPopulation2001/v1/diccionario_poblacion2001_mendez339_v1.csv": "94016f8bb5e97454fb3eef0de9fe42a1dfbf18e29c702a225e53e67b3b9dc5a2",
+    "Outputs/Contract_01/Evidence/population_panel339_authorization.json": "a0140d455b739f7c1b7ee76af929f10428f413de32433cf6d02eee27cbbc1096",
+    "Outputs/Contract_01/Deliverables/PopulationMaps/CensusData/population_2024_source_geography.csv": "c3543020ada4894f46815d8d9e44cc269a818ec66584cb88d66938e087de0f65",
+    "Outputs/Contract_01/Evidence/cpv2024_i00_link_audit.json": "d93d8a2695c2a786d712dcb1990163bf134c16ca3aa7e8e1acb821f511a1f840",
+    "Outputs/Contract_01/Evidence/population_1992_native_redatam_validation.json": "e0b01b5af6239d65e8eaac76d4d06563617a39fb00afdda7d3f7876f5f779170",
+    "Outputs/Contract_01/Evidence/population_2012_native_redatam_validation.json": "d83b4681c0e1b347ed4ea1c5d9428f48c3916b9afd899fc6dc886472dd0cdc04",
+    "Outputs/Contract_01/Deliverables/PopulationMaps/population_1992_provisional.gpkg": "c6ccb92e19190629c8baa7168e2d7643b032dcaf683c5424f8283ce120e7500e",
+    "Outputs/Contract_01/Deliverables/PopulationMaps/CensusData/population_1992_source_geography.csv": "1a79a1cff49deab25b0ad6f4df2c23f32b8bf05cb42ba70a89e9daf1314a6692",
+    "Outputs/Contract_01/Deliverables/PopulationMaps/population_2012_provisional.gpkg": "78e791ec8631329831f1f84b3b2c679997004400a468dfddec011076468e76e1",
+    "Outputs/Contract_01/Deliverables/PopulationMaps/CensusData/population_2012_source_geography.csv": "d8f691fcefd859610aa5ef31f6e5c390a68613ca42e1c1dbab9c31d08b50781e"
+  },
+  "tests": {
+    "1356_unique_target_year_rows": "PASS",
+    "339_targets_each_census": "PASS",
+    "no_missing_or_negative_population": "PASS",
+    "national_totals_conserved_all_years": "PASS",
+    "2024_343_sources_each_assigned_once": "PASS",
+    "published333_ids_match_fixed_target": "PASS",
+    "10_affected_units_assigned_to_unique_largest_area": "PASS",
+    "seven_code_corrections_preserved": "PASS",
+    "2001_matches_frozen_and_previous_output": "PASS",
+    "target_geometry_hash_unchanged": "PASS",
+    "gpkg_geometry_and_population_roundtrip": "PASS",
+    "frozen2001_manifest_all_files_unchanged": "PASS"
+  },
+  "versions": {
+    "python": "3.12.6",
+    "pandas": "3.0.2",
+    "geopandas": "1.1.4",
+    "shapely": "2.1.2"
+  },
+  "limitations": [
+    "1992 available distribution is already339; original census boundaries not certified.",
+    "2012 code bridge is retained; historical boundary equivalence remains unverified.",
+    "2001 uses human-frozen locality dictionary including approved inferred assignments.",
+    "2024 dominant-area allocation is all-or-nothing, not exact geolocation of individuals; minority-area population cannot be measured from area shares.",
+    "Census year2024 differs from source boundary vintage2025 and target geometry vintage2015.",
+    "This is a census-year panel, not annual interpolation."
+  ]
+}

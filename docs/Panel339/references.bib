@@ -1,0 +1,72 @@
+@dataset{INE_CNPV1992_panel,
+  author = {{Instituto Nacional de Estadística de Bolivia}},
+  title = {Censo Nacional de Población y Vivienda 1992: microdatos Redatam},
+  year = {1992},
+  url = {https://anda.ine.gob.bo/index.php/catalog/47},
+  note = {Distribución local cpv1992com, 339 municipios. Se cuentan registros PERSONA mediante punteros. No se certifican límites originales de 1992.}
+}
+@dataset{INE_CNPV2001_panel,
+  author = {{Instituto Nacional de Estadística de Bolivia}},
+  title = {Censo Nacional de Población y Vivienda 2001: microdatos Redatam},
+  year = {2001},
+  url = {https://redatam.org/es/microdatos},
+  note = {Cp2001BOL.zip. Agregación LOCALIDA mediante diccionario de población2001 v1 congelado por el supervisor el 19 de noviembre de 2026. Referencias individuales del diccionario en referencias_2001_congeladas.bib.}
+}
+@dataset{INE_CNPV2012_panel,
+  author = {{Instituto Nacional de Estadística de Bolivia}},
+  title = {Censo Nacional de Población y Vivienda 2012: microdatos Redatam},
+  year = {2012},
+  url = {https://anda.ine.gob.bo/index.php/catalog/8},
+  note = {Fuente local CPV2012Comunidad.dicx y archivos asociados. Lectura de 10059856 personas en 339 municipios. Puente de códigos a referencia2015; equivalencia de límites históricos no certificada.}
+}
+@dataset{INE_CPV2024_panel,
+  author = {{Instituto Nacional de Estadística de Bolivia}},
+  title = {Censo de Población y Vivienda 2024: microdatos CSV de personas},
+  year = {2024},
+  url = {https://fm.ine.gob.bo/index.php/catalog/132},
+  note = {Fuente local Persona_CPV-2024.csv, 11365333 registros. Conteos por idep, iprov, imun. No se utiliza la población del shapefile para construir este panel.}
+}
+@dataset{Mendez_GeoBolivia339_panel,
+  author = {Mendez, Carlos and {GeoBolivia}},
+  title = {Geografía de referencia de 339 municipios: bolivia339geoqueryOpt.geojson},
+  url = {https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/raw/boundaries/bolivia339geoqueryOpt.geojson},
+  urldate = {2026-11-19},
+  note = {Referencia2015 seleccionada por el supervisor. SHA256: 52f50770b20fc8d73540151c1c625deec19ae712f44bcecb8ba2364f11620372. Geometría preservada sin modificaciones.}
+}
+@dataset{SDSN2025_boundaries_panel,
+  author = {{SDSN Bolivia}},
+  title = {Límites Municipales Bolivia 2025 [Archivo shapefile]},
+  year = {2025},
+  url = {https://sdsnbolivia.org/datos-espaciales/},
+  note = {Cartografía de 343 unidades usada para las intersecciones. Puente de siete códigos entre mapa y microdata2024 preservado en code_bridge_2024_seven_corrections.csv.}
+}
+@dataset{Mendez2026_classification_panel,
+  author = {Mendez, Carlos},
+  title = {municipalities343.csv: clasificación de cambios territoriales},
+  url = {https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/raw/lookups/municipalities343.csv},
+  urldate = {2026-11-19},
+  note = {Clasificación publicada: 333 unidades compatibles, seis existentes modificadas y cuatro nuevas. Uso autorizado explícitamente por el supervisor.}
+}
+@misc{Supervisor2026_majority_area_panel,
+  author = {{Supervisor del proyecto Bolivia}},
+  title = {Decisión metodológica: asignar la unidad nueva completa al polígono de mayor superficie compartida},
+  year = {2026},
+  note = {Instrucción del 19 de noviembre de 2026, descrita por el supervisor como regla de su tesis sobre Perú. No se atribuye una referencia bibliográfica a esa tesis sin sus datos. Acta local: Evidence/population_panel339_authorization.json. Regla aplicada a las diez unidades2024 afectadas; peso de asignación uno.}
+}
+
+@misc{geo4bolivia2026_visual_reference,
+  author = {Mendez, Carlos},
+  title = {{GeoDevelopment Observatory of Bolivia}: website visual reference},
+  year = {2026},
+  url = {https://github.com/quarcs-lab/geo4bolivia/tree/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/site},
+  urldate = {2026-11-19},
+  note = {Local design adaptation informed by site/src/styles.css and site/src/app.jsx. Not an official observatory website.}
+}
+@misc{EOX2016_panel_satellite,
+  author = {{EOX IT Services GmbH}},
+  title = {Sentinel-2 cloudless 2016},
+  year = {2016},
+  url = {https://s2maps.eu/},
+  urldate = {2026-11-19},
+  note = {CC BY 4.0. Hero image obtained from the geo4bolivia repository, commit 5fd1dbe9b508cc6996daa62ae15b9d224094f1c4, with attribution as recorded in its README. Displayed with a dark overlay and responsive cropping.}
+}

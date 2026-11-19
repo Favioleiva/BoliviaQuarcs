@@ -1,0 +1,37 @@
+PANEL DE POBLACIÓN 1992–2024 · REFERENCIA GEO4BOLIVIA 339
+
+339 municipios × 4 censos = 1.356 observaciones. Cero valores de población faltantes.
+Totales: 1992 6.420.792; 2001 8.274.325; 2012 10.059.856; 2024 11.365.333.
+
+Archivo principal: population_panel_1992_2024_long.csv (también Parquet).
+Versión ancha: population_panel_1992_2024_wide.csv.
+Cartografía constante con cuatro columnas poblacionales: population_panel_geo4bolivia339.gpkg y .geojson (copias idénticas de los archivos de trabajo originales).
+Visualización bilingüe local: index.html y carpeta assets/ (mantener juntos). Mapas PNG/SVG en español y con sufijo _en en inglés. Créditos en assets/credits.txt.
+Diccionario2024: dictionary_2024_to_geo4bolivia339.csv, 343 claves de microdata únicas y 339 destinos.
+Intersecciones de diez casos: intersections_2024_affected10.csv. Seis totales: population2024_six_reconstructed.csv.
+Puente de siete códigos: code_bridge_2024_seven_corrections.csv. Se distingue código de microdata de código del shapefile.
+
+MÉTODO
+1992: distribución disponible de 339 municipios, conteo directo validado en Redatam. No representa límites históricos originales verificados.
+2001: agregación desde el diccionario LOCALIDA v1 congelado, sin modificarlo. Se mantienen las inferencias documentadas aprobadas.
+2012: conteo Redatam de 339 municipios y puente de códigos. La equivalencia exacta con límites2015 no está certificada.
+2024: clasificación publicada de geo4bolivia para333. Para las diez unidades afectadas, el supervisor autoriza asignar cada unidad completa al polígono con mayor área de intersección. Se calculan áreas en Albers equivalente. Raqaypampa→Mizque; Macha→Colquechaca; Yura→Tomave; TIM→San Ignacio. Los seis municipios actuales remanentes se asignan a su propio territorio de referencia.
+Se usa población de microdata; no se sustituyen los conteos por atributos del shapefile.
+
+INTERPRETACIÓN
+Cobertura numérica completa NO equivale a ubicación individual exacta ni a comparabilidad territorial perfecta. La regla2024 asigna también las personas que pudieran estar en la fracción minoritaria a un único destino. No se conoce cuántas son. En TIM, San Ignacio contiene60,64% del área y Santa Ana39,36%; la regla asigna las3.973personas a San Ignacio. En Yura, Tomave contiene95,93% y Porco3,81%; todas las5.819personas se asignan a Tomave. Los porcentajes son de área, nunca de personas.
+La comparación literal contra nuestro GeoJSON simplificado conserva291casos al umbral95%, frente a333de la clasificación publicada. El supervisor eligió explícitamente esta última; ambas métricas están en el diccionario. No se cambiaron ni repararon los339polígonos seleccionados.
+El año censal final es2024. La cartografía de origen2024 es SDSN2025 y la referencia común es2015. No se interpolaron años intermedios.
+
+REFERENCIAS Y VALIDACIÓN
+references.bib y referencias_2001_congeladas.bib. Decisión del supervisor y hashes en validation.json y Evidence/population_panel339_authorization.json.
+Nombres de destino: catálogo censal INE2012; nombres de origen conservados por año. asdf_id es la clave poligonal fija. target_code identifica la referencia, no debe reemplazar los códigos originales de cada censo.
+source_units cuenta municipios fuente para1992/2012/2024 y localidades fuente para2001; no es una magnitud comparable entre años.
+Estado: entrega para revisión humana. No se congela ni se declara aprobado el contrato.
+Reproducción: python -B Outputs/Contract_01/Evidence/Code/build_population_panel339.py
+Luego: python -B Outputs/Contract_01/Evidence/Code/render_population_panel339.py
+
+Autor: Favio Leiva
+Powered by Codex + GPT6 Astra High Fast
+Bibliografía completa: references_complete.bib; catálogo: references_catalog.json.
+Armonización 2001: sección method2001 del HTML y harmonization_2001_summary.json.

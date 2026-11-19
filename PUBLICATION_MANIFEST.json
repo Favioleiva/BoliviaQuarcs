@@ -1,0 +1,207 @@
+{
+  "repository": "Favioleiva/BoliviaQuarcs",
+  "prepared": "2026-11-19T10:54:04.305023+00:00",
+  "scope": "Published population panel1992–2024 and aggregate supporting files",
+  "files": [
+    {
+      "path": "docs/Panel339/index.html",
+      "bytes": 782192,
+      "sha256": "52191feceb669315adbe8df989f4143a8734d0c7dccef5b2d600ec07f96c0add"
+    },
+    {
+      "path": "docs/Panel339/LEEME.txt",
+      "bytes": 3930,
+      "sha256": "c70d4226bf5791e32dcdffacb8ed31beba400c3a9da3048778d39e84e63bcf9d"
+    },
+    {
+      "path": "docs/Panel339/README_EN.txt",
+      "bytes": 3873,
+      "sha256": "0febca185bd6affd419e8f0208ee69d685eda63b1791188b4b38ea16207bbf66"
+    },
+    {
+      "path": "docs/Panel339/assets/credits.txt",
+      "bytes": 1225,
+      "sha256": "c4d5af173cd87547b78bf36d20cab923f0236237e6173679a32ce27190626edd"
+    },
+    {
+      "path": "docs/Panel339/assets/hero-day.webp",
+      "bytes": 330894,
+      "sha256": "c336d3977c9eff0a337130f3d5ab67811264fbb2b0dbdcb06a5de2ec30374983"
+    },
+    {
+      "path": "docs/Panel339/population_panel_1992_2024_long.csv",
+      "bytes": 307258,
+      "sha256": "5a43adaaefb0120630d56adb795363fe13516829e884009486649a49d7b40ed3"
+    },
+    {
+      "path": "docs/Panel339/population_panel_1992_2024_long.parquet",
+      "bytes": 42764,
+      "sha256": "d585ff8df9561c7a3658482124f7872ffbb552cf7acc277de5bbbc6ea09203cc"
+    },
+    {
+      "path": "docs/Panel339/population_panel_1992_2024_wide.csv",
+      "bytes": 21669,
+      "sha256": "4de5758c66333b6603eb7cbb6c321f76c3806d19edc0ef1a95ac7bd70764f8eb"
+    },
+    {
+      "path": "docs/Panel339/population_panel_geo4bolivia339.geojson",
+      "bytes": 972978,
+      "sha256": "9722766ad844e50ba22e6ccf3a97a963086c9149b58d0c2d250ecbad3ea82ef2"
+    },
+    {
+      "path": "docs/Panel339/population_panel_geo4bolivia339.gpkg",
+      "bytes": 532480,
+      "sha256": "471a3833682a7741983e5c5c3cb9d720e0b1bfe845f1df1262780688fbcb2bf0"
+    },
+    {
+      "path": "docs/Panel339/dictionary_2024_to_geo4bolivia339.csv",
+      "bytes": 114248,
+      "sha256": "14425bc1593bc85886997fa6c584934a50086cfff62e87b6a14ae670f2ccf153"
+    },
+    {
+      "path": "docs/Panel339/assignments_2024_affected10.csv",
+      "bytes": 3807,
+      "sha256": "2a3981ac3dcc8593fd6c9b04b0dbcb4c3475521455e288241fb1aaa5d42fe606"
+    },
+    {
+      "path": "docs/Panel339/code_bridge_2024_seven_corrections.csv",
+      "bytes": 2923,
+      "sha256": "525b9ecfb26373214c646402b0b424adaf209c5b926dcfdf3fc5df7f55ab1cab"
+    },
+    {
+      "path": "docs/Panel339/harmonization_2001_summary.json",
+      "bytes": 822,
+      "sha256": "5f490ea37264fddaa6852850f8d63473bc2857f34485503c872e9a2e12caab1c"
+    },
+    {
+      "path": "docs/Panel339/intersections_2024_affected10.csv",
+      "bytes": 4479,
+      "sha256": "1826a5d39808892b6a43b0fa38c427abcf443b4a55ece699bbf2ddeef9288dd9"
+    },
+    {
+      "path": "docs/Panel339/population2024_six_reconstructed.csv",
+      "bytes": 1702,
+      "sha256": "6f47e030824dfbf189f1a9a29a802f67068d2072b0bf3ed6d825bf0187487c04"
+    },
+    {
+      "path": "docs/Panel339/references.bib",
+      "bytes": 4465,
+      "sha256": "84437d915465459f2c84ac9eec3dcab5deb11cee0f33d9bd99fc2da1d33a6c89"
+    },
+    {
+      "path": "docs/Panel339/references_catalog.json",
+      "bytes": 107531,
+      "sha256": "30bbd421d40ef03b937600015dee00e95035f15ed6bbc17a0c8826045d5c58c3"
+    },
+    {
+      "path": "docs/Panel339/references_complete.bib",
+      "bytes": 80945,
+      "sha256": "64735bab5daf702f132e4e503f6ae66dc552a4a64003ffef71e31f4fae555480"
+    },
+    {
+      "path": "docs/Panel339/referencias_2001_congeladas.bib",
+      "bytes": 46405,
+      "sha256": "6ca794830ffe6d92ff906d644968b7ac3be511ddb92a0dfa9ae09a3d1bdeec42"
+    },
+    {
+      "path": "docs/Panel339/validation.json",
+      "bytes": 5651,
+      "sha256": "d0dc685f6cc2c3227cde53a4705f52fd491f733fc6100a0f18fca73d74ab961d"
+    },
+    {
+      "path": "docs/Panel339/population_panel_overview.png",
+      "bytes": 909854,
+      "sha256": "375d388c313ae2e3767b07a8d92271d4a000c680a63e5def6206ae088f9d868a"
+    },
+    {
+      "path": "docs/Panel339/population_panel_overview_en.png",
+      "bytes": 902409,
+      "sha256": "f93fcfd6ddac56b8c3293e06288902b301e320334b3d25f43c9343005a392f9e"
+    },
+    {
+      "path": "docs/Panel339/population_1992.png",
+      "bytes": 323598,
+      "sha256": "a7adb9728da233310c3b928a10f918238c15a5d4277492e7c3badbf0a604dc85"
+    },
+    {
+      "path": "docs/Panel339/population_1992.svg",
+      "bytes": 570975,
+      "sha256": "062eab6b7f6ffef948c9ea0521c8ddcecac1684968ff4fe895b35a641f7e9331"
+    },
+    {
+      "path": "docs/Panel339/population_1992_en.png",
+      "bytes": 320306,
+      "sha256": "34fb12187c6e76856b5f2b8ecf4a9f6e75fc09df0dfa8699ce1c1ff1cba5cb44"
+    },
+    {
+      "path": "docs/Panel339/population_1992_en.svg",
+      "bytes": 569101,
+      "sha256": "049ba4b51b0f187e0149b962e0a32eae936e818b8c4e48e6385ba5bb5630a793"
+    },
+    {
+      "path": "docs/Panel339/population_2001.png",
+      "bytes": 323309,
+      "sha256": "7185f914621b0c9268e0e205472a23824368f0233fd7189fe039fbb1cda5ed07"
+    },
+    {
+      "path": "docs/Panel339/population_2001.svg",
+      "bytes": 573218,
+      "sha256": "ecad5b93429c58c064ceb3e59c4ee0488ec76bdb706d0a0540d24624d6c7d717"
+    },
+    {
+      "path": "docs/Panel339/population_2001_en.png",
+      "bytes": 320604,
+      "sha256": "fab12aefade459c931938de8cb0ec526c94422a13b98a935667205718f29d4c6"
+    },
+    {
+      "path": "docs/Panel339/population_2001_en.svg",
+      "bytes": 571146,
+      "sha256": "ebf2c17a19d532b9aa4cee6edb9aeff7a7b69e88e9705b361af082bcbe10b1c5"
+    },
+    {
+      "path": "docs/Panel339/population_2012.png",
+      "bytes": 324036,
+      "sha256": "bdbc59b6fbffd4e23c090ddb07574380b4ab95c1d5c384854f2a849bd63f8e4f"
+    },
+    {
+      "path": "docs/Panel339/population_2012.svg",
+      "bytes": 573760,
+      "sha256": "8df43918b0233f816fb3434fb0d17fe5a0f6e2331a1d01f720bb1862034659fd"
+    },
+    {
+      "path": "docs/Panel339/population_2012_en.png",
+      "bytes": 321348,
+      "sha256": "97d5c4853e47a023c469676933505d1f2531387a9428ec8947a8a32330799a03"
+    },
+    {
+      "path": "docs/Panel339/population_2012_en.svg",
+      "bytes": 571812,
+      "sha256": "3da864d3b56d3f47a4d3dac24f75d15c7b140faa5800de0ea2a104b7812ce23c"
+    },
+    {
+      "path": "docs/Panel339/population_2024.png",
+      "bytes": 323367,
+      "sha256": "afae4b4c9c2b41312100f35673247d616250c80e7080ecfb34b5fc264e3354a8"
+    },
+    {
+      "path": "docs/Panel339/population_2024.svg",
+      "bytes": 573306,
+      "sha256": "543448ab09487912bf737c4050ce8179080edc93ac1afea11930637797d6a1fc"
+    },
+    {
+      "path": "docs/Panel339/population_2024_en.png",
+      "bytes": 319175,
+      "sha256": "9b9e2e5dbbbed781a474df7d08ba6e547a873fe51f21bb97df028984c92ff288"
+    },
+    {
+      "path": "docs/Panel339/population_2024_en.svg",
+      "bytes": 571114,
+      "sha256": "768a1842b67f3d4bfb7ffae828999a85623b34e7f6e7898cf61731c904752b9e"
+    },
+    {
+      "path": "docs/Sources/diccionario_poblacion2001_mendez339_v1.csv",
+      "bytes": 9475090,
+      "sha256": "94016f8bb5e97454fb3eef0de9fe42a1dfbf18e29c702a225e53e67b3b9dc5a2"
+    }
+  ]
+}

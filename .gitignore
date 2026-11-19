@@ -1,0 +1,11 @@
+# Public product only. Raw inputs and internal project evidence stay outside this repository.
+/Inputs/
+/Maps/
+/Outputs/
+.env
+.env.*
+*.sav
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
