@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "BoliviaQuarcs: Harmonized Municipal Population Panel of Bolivia (1992, 2001, 2012, and 2024) on 339 Geo4Bolivia Reference Polygons"
+message: "If you use this software or harmonized dataset, please cite it as below."
+type: software
+authors:
+  - family-names: Leiva
+    given-names: Favio
+repository-code: "https://github.com/Favioleiva/BoliviaQuarcs"
+url: "https://github.com/Favioleiva/BoliviaQuarcs"
+license: MIT
+date-released: "2026-11-19"
+abstract: >-
+  Harmonized municipal population panel for Bolivia across the 1992, 2001, 2012,
+  and 2024 censuses on 339 Geo4Bolivia reference polygons, with a bilingual
+  (Spanish/English) interactive dashboard, geographic crosswalks, and
+  documentation. Underlying INE census data, Geo4Bolivia/SDSN boundaries, and
+  third-party visual assets retain their respective original licenses and terms.

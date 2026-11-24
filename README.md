@@ -41,3 +41,26 @@ See [English methods and limitations](docs/Panel339/README_EN.txt). Full numeric
 Visual design adapted from [geo4bolivia / QUARCS Lab](https://github.com/quarcs-lab/geo4bolivia). Satellite image: Sentinel-2 cloudless2016, EOX IT Services GmbH, CC BY4.0. Full third-party attribution is preserved in the credits and bibliography.
 
 The `docs/` directory is a self-contained static product. This commit does not enable GitHub Pages hosting.
+
+## Licencia y cita / License and citation
+
+El código fuente, el visor interactivo y la documentación original de este repositorio se distribuyen bajo la **Licencia MIT** ([LICENSE](LICENSE), Copyright (c) 2026 Favio Leiva). Los datos censales del INE, la cartografía de referencia de Geo4Bolivia / SDSN Bolivia y los recursos visuales de terceros (incluida la imagen Sentinel-2 cloudless 2016 de EOX IT Services GmbH bajo CC BY 4.0) conservan sus licencias y términos originales.
+
+*Newly authored code, interactive viewer, and documentation in this repository are released under the **MIT License** ([LICENSE](LICENSE), Copyright (c) 2026 Favio Leiva). Underlying INE census data, Geo4Bolivia / SDSN Bolivia boundaries, and third-party visual assets retain their respective original licenses and terms.*
+
+### Cómo citar / How to cite
+
+> Leiva, F. (2026). *BoliviaQuarcs: Harmonized Municipal Population Panel of Bolivia (1992, 2001, 2012, and 2024) on 339 Geo4Bolivia Reference Polygons* [Software and dataset]. GitHub. https://github.com/Favioleiva/BoliviaQuarcs
+
+```bibtex
+@misc{leiva2026boliviaquarcs,
+  author       = {Leiva, Favio},
+  title        = {{BoliviaQuarcs: Harmonized Municipal Population Panel of Bolivia (1992, 2001, 2012, and 2024) on 339 Geo4Bolivia Reference Polygons}},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/Favioleiva/BoliviaQuarcs}},
+  note         = {MIT License (code and original materials); underlying INE census data, Geo4Bolivia/SDSN boundaries, and third-party visual assets retain their original terms}
+}
+```
+
+Metadatos estructurados en [CITATION.cff](CITATION.cff).

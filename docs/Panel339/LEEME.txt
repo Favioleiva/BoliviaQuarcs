@@ -27,7 +27,7 @@ REFERENCIAS Y VALIDACIÓN
 references.bib y referencias_2001_congeladas.bib. Decisión del supervisor y hashes en validation.json y Evidence/population_panel339_authorization.json.
 Nombres de destino: catálogo censal INE2012; nombres de origen conservados por año. asdf_id es la clave poligonal fija. target_code identifica la referencia, no debe reemplazar los códigos originales de cada censo.
 source_units cuenta municipios fuente para1992/2012/2024 y localidades fuente para2001; no es una magnitud comparable entre años.
-Estado: entrega para revisión humana. No se congela ni se declara aprobado el contrato.
+Licencia: MIT (código y materiales originales; los datos censales del INE, cartografía de Geo4Bolivia/SDSN y recursos de terceros conservan sus términos originales).
 Reproducción: python -B Outputs/Contract_01/Evidence/Code/build_population_panel339.py
 Luego: python -B Outputs/Contract_01/Evidence/Code/render_population_panel339.py
 

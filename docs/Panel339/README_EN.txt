@@ -32,7 +32,7 @@ source_units counts municipalities in 1992/2012/2024 and localities in 2001; thi
 REFERENCES, STATUS AND REPRODUCTION
 references.bib, referencias_2001_congeladas.bib, assets/credits.txt and validation.json.
 The original bibliographic authorship and frozen 2001 reference file are retained.
-Delivered for human review; the contract is not accepted or closed by the agent.
+License: MIT (code and original materials; underlying INE census data, Geo4Bolivia/SDSN boundaries, and third-party visual assets retain their original terms).
 Data: python -B Outputs/Contract_01/Evidence/Code/build_population_panel339.py
 Presentation: python -B Outputs/Contract_01/Evidence/Code/render_population_panel339.py
 The HTML, CSS and JavaScript source templates are in the same Code directory.
