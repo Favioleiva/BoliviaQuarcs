@@ -6,6 +6,7 @@
 .env.*
 *.sav
 *.zip
+!docs/PanelAMC/population_panel_amc_1976_2024_shp.zip
 __pycache__/
 .DS_Store
 Thumbs.db
