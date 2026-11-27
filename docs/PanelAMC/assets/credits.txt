@@ -1,0 +1,22 @@
+CRÉDITOS VISUALES / VISUAL CREDITS
+
+Diseño adaptado de / Design adapted from geo4bolivia, Carlos Mendez / QUARCS Lab.
+https://github.com/quarcs-lab/geo4bolivia
+Source snapshot: 5fd1dbe9b508cc6996daa62ae15b9d224094f1c4
+Reference files: site/src/styles.css and site/src/app.jsx.
+Este es el panel del proyecto Bolivia, no el sitio oficial del observatorio.
+This is the Bolivia project panel, not the observatory's official website.
+
+hero-day.webp: Sentinel-2 cloudless 2016 by EOX IT Services GmbH.
+https://s2maps.eu/
+License: Creative Commons Attribution 4.0 International.
+https://creativecommons.org/licenses/by/4.0/
+Asset supplied by the geo4bolivia repository; attribution follows its README.
+The dashboard displays the image with a dark overlay and responsive cropping.
+La imagen se muestra con una capa oscura y recorte adaptable.
+Original Git blob SHA1: 82df0bae109aeb62f3f390f30fd27a053cd9b0a1.
+
+La ilustración de capas es un SVG nuevo derivado de los polígonos de referencia locales.
+The layered illustration is a new SVG derived from the local reference polygons.
+It is decorative; all analysis uses the original unchanged geometry.
+No template illustration of another country is displayed.

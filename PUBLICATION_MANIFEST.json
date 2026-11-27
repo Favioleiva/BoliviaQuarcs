@@ -1,7 +1,9 @@
 {
-  "repository": "Favioleiva/BoliviaQuarcs",
-  "prepared": "2026-11-27T10:54:59.738879+00:00",
-  "scope": "Published census panel 1992–2024: compact continuous-scale visualisation, aggregate supporting files unchanged",
+  "generated_utc": "2026-11-27T16:22:22.837338+00:00",
+  "repository": "https://github.com/Favioleiva/BoliviaQuarcs",
+  "source_contract": "Contract_03 (with frozen C06 Panel339 preserved)",
+  "files_count": 72,
+  "total_bytes": 35814901,
   "files": [
     {
       "path": ".gitattributes",
@@ -19,29 +21,14 @@
       "sha256": "0ac41beb9d87bd99ae0dfe54f95f6508d200b75af8f9654a6561f617bd9814f2"
     },
     {
-      "path": "LICENSE",
-      "bytes": 1068,
-      "sha256": "64f4c3e54e5c5c052f5a75782ffc85e29ae0505506ec29cd5543f2bd5dd8c2a7"
-    },
-    {
-      "path": "README.md",
-      "bytes": 7044,
-      "sha256": "039a1be82a48efc8515965f4896982bd3ac3d61059153a2d741d3bce25fec9a4"
-    },
-    {
       "path": "docs/.nojekyll",
       "bytes": 0,
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "docs/Panel339/LEEME.txt",
-      "bytes": 4010,
-      "sha256": "900a45f22da499069b09c417422a97de38e95339daebce851767f1c99ec91b8b"
-    },
-    {
-      "path": "docs/Panel339/README_EN.txt",
-      "bytes": 3952,
-      "sha256": "d1652afe636d95e533378f97d2925dcb67b2daae6037fc5633bf6e7dfb89b257"
+      "path": "docs/index.html",
+      "bytes": 246,
+      "sha256": "49bfc82ec558c4cf2f17c25feca2f84afb22f8becbd24afea7170c7ab39e4703"
     },
     {
       "path": "docs/Panel339/assets/credits.txt",
@@ -85,13 +72,18 @@
     },
     {
       "path": "docs/Panel339/index.html",
-      "bytes": 824981,
-      "sha256": "2a8cdae6f16835256decf89f9e5c75672d5a113c7e333dbf63e8d01ade7ce595"
+      "bytes": 828904,
+      "sha256": "76865858dfe445fa14f53f65c6b81f9fac735eba3b7b84980e47bf4f8c303e6e"
     },
     {
       "path": "docs/Panel339/intersections_2024_affected10.csv",
       "bytes": 4479,
       "sha256": "1826a5d39808892b6a43b0fa38c427abcf443b4a55ece699bbf2ddeef9288dd9"
+    },
+    {
+      "path": "docs/Panel339/LEEME.txt",
+      "bytes": 4010,
+      "sha256": "900a45f22da499069b09c417422a97de38e95339daebce851767f1c99ec91b8b"
     },
     {
       "path": "docs/Panel339/population2024_six_reconstructed.csv",
@@ -214,6 +206,11 @@
       "sha256": "f93fcfd6ddac56b8c3293e06288902b301e320334b3d25f43c9343005a392f9e"
     },
     {
+      "path": "docs/Panel339/README_EN.txt",
+      "bytes": 3952,
+      "sha256": "d1652afe636d95e533378f97d2925dcb67b2daae6037fc5633bf6e7dfb89b257"
+    },
+    {
       "path": "docs/Panel339/references.bib",
       "bytes": 4465,
       "sha256": "84437d915465459f2c84ac9eec3dcab5deb11cee0f33d9bd99fc2da1d33a6c89"
@@ -239,15 +236,134 @@
       "sha256": "d0dc685f6cc2c3227cde53a4705f52fd491f733fc6100a0f18fca73d74ab961d"
     },
     {
+      "path": "docs/PanelAMC/amc_to_geo4bolivia339_bridge.csv",
+      "bytes": 49273,
+      "sha256": "2c96215b774e334094acfc42f49499a8d1990eea6725311199baa3fcd6879741"
+    },
+    {
+      "path": "docs/PanelAMC/assets/credits.txt",
+      "bytes": 1225,
+      "sha256": "c4d5af173cd87547b78bf36d20cab923f0236237e6173679a32ce27190626edd"
+    },
+    {
+      "path": "docs/PanelAMC/assets/hero-day.webp",
+      "bytes": 330894,
+      "sha256": "c336d3977c9eff0a337130f3d5ab67811264fbb2b0dbdcb06a5de2ec30374983"
+    },
+    {
+      "path": "docs/PanelAMC/assets/interaction.css",
+      "bytes": 21061,
+      "sha256": "9990cb9ce28c9a0338996f2422b0285bee277bf3288e8bdbd28b162745ff45b3"
+    },
+    {
+      "path": "docs/PanelAMC/code_bridge_2024_seven_corrections.csv",
+      "bytes": 2923,
+      "sha256": "525b9ecfb26373214c646402b0b424adaf209c5b926dcfdf3fc5df7f55ab1cab"
+    },
+    {
+      "path": "docs/PanelAMC/diccionario_poblacion2001_mendez339_v1.csv",
+      "bytes": 9475090,
+      "sha256": "94016f8bb5e97454fb3eef0de9fe42a1dfbf18e29c702a225e53e67b3b9dc5a2"
+    },
+    {
+      "path": "docs/PanelAMC/dictionary_1976_amc.csv",
+      "bytes": 146496,
+      "sha256": "7b36e6bea398904adbb80aa0fbcc96650ba67d1d8a9add6a3b1907511302e4d1"
+    },
+    {
+      "path": "docs/PanelAMC/index.html",
+      "bytes": 821426,
+      "sha256": "8a36acef8ce84ec69ca1db8e4726ec5de1762310fca5d9112df92fd99edab930"
+    },
+    {
+      "path": "docs/PanelAMC/intersections_2024_affected10.csv",
+      "bytes": 4479,
+      "sha256": "1826a5d39808892b6a43b0fa38c427abcf443b4a55ece699bbf2ddeef9288dd9"
+    },
+    {
+      "path": "docs/PanelAMC/LEEME.txt",
+      "bytes": 957,
+      "sha256": "18eba86fb3d76bfb529ff550c0832337f666da9207da96798bfc22fecacdf0f5"
+    },
+    {
+      "path": "docs/PanelAMC/population2024_six_reconstructed.csv",
+      "bytes": 1702,
+      "sha256": "6f47e030824dfbf189f1a9a29a802f67068d2072b0bf3ed6d825bf0187487c04"
+    },
+    {
+      "path": "docs/PanelAMC/population_panel_amc_1976_2024.geojson",
+      "bytes": 962120,
+      "sha256": "9adf0ce40af6180b5b802606ba2ddefee31139dadff8bcb8d026a62d33e1fd25"
+    },
+    {
+      "path": "docs/PanelAMC/population_panel_amc_1976_2024.gpkg",
+      "bytes": 520192,
+      "sha256": "a27c09424190ab3af59ee3495f331b5ef22256be84186cc9cf955ec7d6d2a464"
+    },
+    {
+      "path": "docs/PanelAMC/population_panel_amc_1976_2024_long.csv",
+      "bytes": 131399,
+      "sha256": "20c2a157a75ca779895364d8a23f09601d470f098fee02a219d45900832f8050"
+    },
+    {
+      "path": "docs/PanelAMC/population_panel_amc_1976_2024_long.parquet",
+      "bytes": 34597,
+      "sha256": "96598a213b46c5d2c3c0c359caa036308df913363dc00860f76336068f79cd93"
+    },
+    {
+      "path": "docs/PanelAMC/population_panel_amc_1976_2024_shp.zip",
+      "bytes": 195626,
+      "sha256": "f542c10bdc51b6741e6cd6f020bd3fe293f80bceea3cf7f029b80cce79d2b2e3"
+    },
+    {
+      "path": "docs/PanelAMC/population_panel_amc_1976_2024_wide.csv",
+      "bytes": 39703,
+      "sha256": "bf22a5c1656dbe44c548a55cd788f79cac14a6c699244ef18676f6a44f39dff5"
+    },
+    {
+      "path": "docs/PanelAMC/population_panel_overview.png",
+      "bytes": 909854,
+      "sha256": "375d388c313ae2e3767b07a8d92271d4a000c680a63e5def6206ae088f9d868a"
+    },
+    {
+      "path": "docs/PanelAMC/references.bib",
+      "bytes": 16185,
+      "sha256": "2bd2378614bf7ddf33d49fc0fed83f6b60abd1a50c5af45b57df1f8ba965f1b7"
+    },
+    {
+      "path": "docs/PanelAMC/references_catalog.json",
+      "bytes": 107531,
+      "sha256": "30bbd421d40ef03b937600015dee00e95035f15ed6bbc17a0c8826045d5c58c3"
+    },
+    {
+      "path": "docs/PanelAMC/references_complete.bib",
+      "bytes": 80945,
+      "sha256": "64735bab5daf702f132e4e503f6ae66dc552a4a64003ffef71e31f4fae555480"
+    },
+    {
+      "path": "docs/PanelAMC/referencias_2001_congeladas.bib",
+      "bytes": 46405,
+      "sha256": "6ca794830ffe6d92ff906d644968b7ac3be511ddb92a0dfa9ae09a3d1bdeec42"
+    },
+    {
+      "path": "docs/PanelAMC/validation.json",
+      "bytes": 5651,
+      "sha256": "d0dc685f6cc2c3227cde53a4705f52fd491f733fc6100a0f18fca73d74ab961d"
+    },
+    {
       "path": "docs/Sources/diccionario_poblacion2001_mendez339_v1.csv",
       "bytes": 9475090,
       "sha256": "94016f8bb5e97454fb3eef0de9fe42a1dfbf18e29c702a225e53e67b3b9dc5a2"
     },
     {
-      "path": "docs/index.html",
-      "bytes": 215,
-      "sha256": "771886e5d1b35623fe7f90d895a6f056e27fb4c47acf5028ef62417b40d220b5"
+      "path": "LICENSE",
+      "bytes": 1068,
+      "sha256": "64f4c3e54e5c5c052f5a75782ffc85e29ae0505506ec29cd5543f2bd5dd8c2a7"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9469,
+      "sha256": "91efe3226ba5b818e6540032963e73b644f363a7ac102d468f4630100cf70908"
     }
-  ],
-  "base_commit": "0b9c15a06aefdc4bfde22e43761a0c7f5a28e55f"
+  ]
 }

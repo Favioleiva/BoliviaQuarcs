@@ -1,0 +1,340 @@
+﻿target_code_339,asdf_id_339,municipio_339,provincia_339,departamento_339,amc_id,amc_code,amc_name,is_amc_union,n_municipalities_in_amc,fusion_reason
+010101,254,Sucre,Oropeza,Chuquisaca,MUN_010101,010101,Sucre,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010102,201,Yotala,Oropeza,Chuquisaca,MUN_010102,010102,Yotala,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010103,300,Poroma,Oropeza,Chuquisaca,MUN_010103,010103,Poroma,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010201,174,Azurduy,Azurduy,Chuquisaca,MUN_010201,010201,Azurduy,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010202,186,Tarvita,Azurduy,Chuquisaca,MUN_010202,010202,Tarvita,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010301,206,Zudáñez,Zudañez,Chuquisaca,MUN_010301,010301,Zudáñez,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010302,255,Presto,Zudañez,Chuquisaca,MUN_010302,010302,Presto,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010303,244,Mojocoya,Zudañez,Chuquisaca,MUN_010303,010303,Mojocoya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010304,200,Icla,Zudañez,Chuquisaca,MUN_010304,010304,Icla,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010401,243,Padilla,Tomina,Chuquisaca,MUN_010401,010401,Padilla,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010402,203,Tomina,Tomina,Chuquisaca,MUN_010402,010402,Tomina,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010403,199,Sopachuy,Tomina,Chuquisaca,MUN_010403,010403,Sopachuy,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010404,198,Villa Alcalá,Tomina,Chuquisaca,MUN_010404,010404,Villa Alcalá,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010405,190,El Villar,Tomina,Chuquisaca,MUN_010405,010405,El Villar,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010501,194,Monteagudo,Hernando Siles,Chuquisaca,MUN_010501,010501,Monteagudo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010502,193,Huacareta,Hernando Siles,Chuquisaca,MUN_010502,010502,Huacareta,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010601,205,Tarabuco,Yamparaez,Chuquisaca,MUN_010601,010601,Tarabuco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010602,202,Yamparaez,Yamparaez,Chuquisaca,MUN_010602,010602,Yamparaez,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010701,336,Camargo,Nor Cinti,Chuquisaca,MUN_010701,010701,Camargo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010702,35,San Lucas,Nor Cinti,Chuquisaca,MUN_010702,010702,San Lucas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010703,37,Incahuasi,Nor Cinti,Chuquisaca,AMC_0107_INCAHUASI_VILLACHARCAS,010703_AMC,AMC Incahuasi + Villa Charcas,SI,2,Villa Charcas (010704) segregada de Incahuasi (010703) después de 1993.
+010704,322,Villa Charcas,Nor Cinti,Chuquisaca,AMC_0107_INCAHUASI_VILLACHARCAS,010703_AMC,AMC Incahuasi + Villa Charcas,SI,2,Villa Charcas (010704) segregada de Incahuasi (010703) después de 1993.
+010801,246,Villa Serrano,Belisario Boeto,Chuquisaca,MUN_010801,010801,Villa Serrano,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010901,105,Villa Abecia,Sud Cinti,Chuquisaca,MUN_010901,010901,Villa Abecia,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010902,36,Culpina,Sud Cinti,Chuquisaca,MUN_010902,010902,Culpina,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+010903,104,Las Carreras,Sud Cinti,Chuquisaca,MUN_010903,010903,Las Carreras,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+011001,241,Muyupampa,Luis Calvo,Chuquisaca,MUN_011001,011001,Muyupampa,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+011002,191,Huacaya,Luis Calvo,Chuquisaca,MUN_011002,011002,Huacaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+011003,247,Macharetí,Luis Calvo,Chuquisaca,MUN_011003,011003,Macharetí,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020101,176,La Paz,Murillo,La Paz,AMC_0201_LAPAZ_ELALTO,020101_AMC,AMC La Paz + El Alto,SI,2,21100 La Paz (635.283 hab.) incluía El Alto en 1976 (INE Vol. 11 pág. 39; Ley 728/1985).
+020102,158,Palca,Murillo,La Paz,MUN_020102,020102,Palca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020103,157,Mecapaca,Murillo,La Paz,MUN_020103,020103,Mecapaca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020104,159,Achocalla,Murillo,La Paz,MUN_020104,020104,Achocalla,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020105,160,El Alto,Murillo,La Paz,AMC_0201_LAPAZ_ELALTO,020101_AMC,AMC La Paz + El Alto,SI,2,21100 La Paz (635.283 hab.) incluía El Alto en 1976 (INE Vol. 11 pág. 39; Ley 728/1985).
+020201,326,Achacachi,Omasuyos,La Paz,AMC_0202_ACHACACHI_CHUACOCANI,020201_AMC,AMC Achacachi + Chua Cocani,SI,2,Chua Cocani (020203) segregada de Achacachi (020201) después de 1993.
+020202,41,Ancoraimes,Omasuyos,La Paz,MUN_020202,020202,Ancoraimes,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020203,239,Chua Cocani,Omasuyos,La Paz,AMC_0202_ACHACACHI_CHUACOCANI,020201_AMC,AMC Achacachi + Chua Cocani,SI,2,Chua Cocani (020203) segregada de Achacachi (020201) después de 1993.
+020204,237,Huarina,Omasuyos,La Paz,MUN_020204,020204,Huarina,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020205,230,Santiago de Huata,Omasuyos,La Paz,MUN_020205,020205,Santiago de Huata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020206,155,Huatajata,Omasuyos,La Paz,MUN_020206,020206,Huatajata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020301,25,Corocoro,Pacajes,La Paz,MUN_020301,020301,Corocoro,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020302,112,Caquiaviri,Pacajes,La Paz,AMC_0203_CAQUIAVIRI_WALDOBALLIVIAN,020302_AMC,AMC Caquiaviri + Waldo Ballivián,SI,2,Waldo Ballivián (020306) creada entre 1976 y 1993 sin cantón separado en 1976.
+020303,139,Calacoto,Pacajes,La Paz,MUN_020303,020303,Calacoto,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020304,150,Comanche,Pacajes,La Paz,MUN_020304,020304,Comanche,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020305,325,Charaña,Pacajes,La Paz,MUN_020305,020305,Charaña,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020306,307,Waldo Ballivián,Pacajes,La Paz,AMC_0203_CAQUIAVIRI_WALDOBALLIVIAN,020302_AMC,AMC Caquiaviri + Waldo Ballivián,SI,2,Waldo Ballivián (020306) creada entre 1976 y 1993 sin cantón separado en 1976.
+020307,111,Nazacara de Pacajes,Pacajes,La Paz,MUN_020307,020307,Nazacara de Pacajes,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020308,134,Callapa,Pacajes,La Paz,MUN_020308,020308,Callapa,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020401,323,Puerto Acosta,Camacho,La Paz,AMC_0204_PTOACOSTA_UMANATA,020401_AMC,AMC Puerto Acosta + Umanata,SI,2,Umanata (020404) segregada de Puerto Acosta (020401) después de 1993.
+020402,51,Mocomoco,Camacho,La Paz,MUN_020402,020402,Mocomoco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020403,43,Pto. Carabuco,Camacho,La Paz,MUN_020403,020403,Pto. Carabuco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020404,240,Umanata,Camacho,La Paz,AMC_0204_PTOACOSTA_UMANATA,020401_AMC,AMC Puerto Acosta + Umanata,SI,2,Umanata (020404) segregada de Puerto Acosta (020401) después de 1993.
+020405,324,Escoma,Camacho,La Paz,MUN_020405,020405,Escoma,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020501,179,Chuma,Muñecas,La Paz,MUN_020501,020501,Chuma,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020502,305,Ayata,Muñecas,La Paz,MUN_020502,020502,Ayata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020503,172,Aucapata,Muñecas,La Paz,MUN_020503,020503,Aucapata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020601,177,Sorata,Larecaja,La Paz,MUN_020601,020601,Sorata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020602,180,Guanay,Larecaja,La Paz,MUN_020602,020602,Guanay,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020603,192,Tacacoma,Larecaja,La Paz,MUN_020603,020603,Tacacoma,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020604,171,Quiabaya,Larecaja,La Paz,MUN_020604,020604,Quiabaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020605,168,Combaya,Larecaja,La Paz,MUN_020605,020605,Combaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020606,175,Tipuani,Larecaja,La Paz,MUN_020606,020606,Tipuani,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020607,182,Mapiri,Larecaja,La Paz,MUN_020607,020607,Mapiri,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020608,181,Teoponte,Larecaja,La Paz,MUN_020608,020608,Teoponte,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020701,210,Apolo,Franz Tamayo,La Paz,MUN_020701,020701,Apolo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020702,208,Pelechuco,Franz Tamayo,La Paz,MUN_020702,020702,Pelechuco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020801,152,Viacha,Ingavi,La Paz,MUN_020801,020801,Viacha,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020802,165,Guaqui,Ingavi,La Paz,MUN_020802,020802,Guaqui,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020803,75,Tiahuanacu,Ingavi,La Paz,MUN_020803,020803,Tiahuanacu,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020804,163,Desaguadero,Ingavi,La Paz,MUN_020804,020804,Desaguadero,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020805,328,San Andrés de Machaca,Ingavi,La Paz,MUN_020805,020805,San Andrés de Machaca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020806,164,Jesús de Machaca,Ingavi,La Paz,MUN_020806,020806,Jesús de Machaca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020807,327,Taraco,Ingavi,La Paz,MUN_020807,020807,Taraco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020901,116,Luribay,Loayza,La Paz,MUN_020901,020901,Luribay,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020902,27,Sapahaqui,Loayza,La Paz,MUN_020902,020902,Sapahaqui,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+020903,138,Yaco,Loayza,La Paz,AMC_0209_YACO_MALLA,020903_AMC,AMC Yaco + Malla,SI,2,Malla (020904) creada después de 1976 sin cantón separado en 1976.
+020904,149,Malla,Loayza,La Paz,AMC_0209_YACO_MALLA,020903_AMC,AMC Yaco + Malla,SI,2,Malla (020904) creada después de 1976 sin cantón separado en 1976.
+020905,28,Cairoma,Loayza,La Paz,MUN_020905,020905,Cairoma,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021001,60,Inquisivi,Inquisivi,La Paz,MUN_021001,021001,Inquisivi,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021002,154,Quime,Inquisivi,La Paz,MUN_021002,021002,Quime,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021003,59,Cajuata,Inquisivi,La Paz,MUN_021003,021003,Cajuata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021004,29,Colquiri,Inquisivi,La Paz,MUN_021004,021004,Colquiri,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021005,30,Ichoca,Inquisivi,La Paz,MUN_021005,021005,Ichoca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021006,153,Villa Libertad Licoma,Inquisivi,La Paz,MUN_021006,021006,Villa Libertad Licoma,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021101,62,Chulumani,Sud Yungas,La Paz,MUN_021101,021101,Chulumani,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021102,61,Irupana,Sud Yungas,La Paz,MUN_021102,021102,Irupana,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021103,161,Yanacachi,Sud Yungas,La Paz,MUN_021103,021103,Yanacachi,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021104,209,Palos Blancos,Sud Yungas,La Paz,MUN_021104,021104,Palos Blancos,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021105,178,La Asunta,Sud Yungas,La Paz,MUN_021105,021105,La Asunta,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021201,167,Pucarani,Los Andes,La Paz,MUN_021201,021201,Pucarani,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021202,156,Laja,Los Andes,La Paz,MUN_021202,021202,Laja,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021203,242,Batallas,Los Andes,La Paz,MUN_021203,021203,Batallas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021204,231,Puerto Pérez,Los Andes,La Paz,MUN_021204,021204,Puerto Pérez,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021301,142,Sica Sica,Aroma,La Paz,MUN_021301,021301,Sica Sica,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021302,17,Umala,Aroma,La Paz,MUN_021302,021302,Umala,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021303,173,Ayo Ayo,Aroma,La Paz,MUN_021303,021303,Ayo Ayo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021304,151,Calamarca,Aroma,La Paz,MUN_021304,021304,Calamarca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021305,143,Patacamaya,Aroma,La Paz,MUN_021305,021305,Patacamaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021306,144,Colquencha,Aroma,La Paz,MUN_021306,021306,Colquencha,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021307,130,Collana,Aroma,La Paz,MUN_021307,021307,Collana,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021401,169,Coroico,Nor Yungas,La Paz,MUN_021401,021401,Coroico,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021402,170,Coripata,Nor Yungas,La Paz,MUN_021402,021402,Coripata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021501,304,Ixiamas,Abel Iturralde,La Paz,MUN_021501,021501,Ixiamas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021502,212,San Buenaventura,Abel Iturralde,La Paz,MUN_021502,021502,San Buenaventura,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021601,183,Charazani,Bautista Saavedra,La Paz,MUN_021601,021601,Charazani,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021602,207,Curva,Bautista Saavedra,La Paz,MUN_021602,021602,Curva,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021701,185,Copacabana,Manco Kapac,La Paz,MUN_021701,021701,Copacabana,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021702,196,San Pedro de Tiquina,Manco Kapac,La Paz,MUN_021702,021702,San Pedro de Tiquina,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021703,166,Tito Yupanqui,Manco Kapac,La Paz,MUN_021703,021703,Tito Yupanqui,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021801,20,San Pedro Cuarahuara,Gualberto Villarroel,La Paz,MUN_021801,021801,San Pedro Cuarahuara,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021802,16,Papel Pampa,Gualberto Villarroel,La Paz,MUN_021802,021802,Papel Pampa,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021803,14,Chacarilla,Gualberto Villarroel,La Paz,MUN_021803,021803,Chacarilla,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+021901,145,Santiago de Machaca,José Manuel Pando,La Paz,AMC_0219_SMACHACA_CATACORA,021901_AMC,AMC Santiago de Machaca + Catacora,SI,2,Catacora (021902) segregada junto con provincia J. M. Pando (1986) sin cantón separado en 1976.
+021902,137,Catacora,José Manuel Pando,La Paz,AMC_0219_SMACHACA_CATACORA,021901_AMC,AMC Santiago de Machaca + Catacora,SI,2,Catacora (021902) segregada junto con provincia J. M. Pando (1986) sin cantón separado en 1976.
+022001,236,Caranavi,Caranavi,La Paz,MUN_022001,022001,Caranavi,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+022002,235,Alto Beni,Caranavi,La Paz,MUN_022002,022002,Alto Beni,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030101,135,Cochabamba,Cercado,Cochabamba,MUN_030101,030101,Cochabamba,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030201,5,Aiquile,Campero,Cochabamba,MUN_030201,030201,Aiquile,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030202,334,Pasorapa,Campero,Cochabamba,MUN_030202,030202,Pasorapa,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030203,53,Omereque,Campero,Cochabamba,MUN_030203,030203,Omereque,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030301,292,Independencia,Ayopaya,Cochabamba,MUN_030301,030301,Independencia,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030302,106,Morochata,Ayopaya,Cochabamba,MUN_030302,030302,Morochata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030303,251,Cocapata,Ayopaya,Cochabamba,MUN_030303,030303,Cocapata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030401,85,Tarata,Esteban Arze,Cochabamba,MUN_030401,030401,Tarata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030402,120,Anzaldo,Esteban Arze,Cochabamba,AMC_0304_ANZALDO_SACABAMBA,030402_AMC,AMC Anzaldo + Sacabamba,SI,2,Sacabamba (030404) creada en 1990 desde Anzaldo sin cantón separado en 1976.
+030403,15,Arbieto,Esteban Arze,Cochabamba,MUN_030403,030403,Arbieto,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030404,119,Sacabamba,Esteban Arze,Cochabamba,AMC_0304_ANZALDO_SACABAMBA,030402_AMC,AMC Anzaldo + Sacabamba,SI,2,Sacabamba (030404) creada en 1990 desde Anzaldo sin cantón separado en 1976.
+030501,140,Arani,Arani,Cochabamba,MUN_030501,030501,Arani,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030502,273,Vacas,Arani,Cochabamba,MUN_030502,030502,Vacas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030601,24,Arque,Arque,Cochabamba,MUN_030601,030601,Arque,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030602,125,Tacopaya,Arque,Cochabamba,MUN_030602,030602,Tacopaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030701,23,Capinota,Capinota,Cochabamba,MUN_030701,030701,Capinota,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030702,128,Santivañez,Capinota,Cochabamba,MUN_030702,030702,Santivañez,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030703,21,Sicaya,Capinota,Cochabamba,MUN_030703,030703,Sicaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030801,124,Cliza,German Jordán,Cochabamba,MUN_030801,030801,Cliza,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030802,121,Toco,German Jordán,Cochabamba,MUN_030802,030802,Toco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030803,131,Tolata,German Jordán,Cochabamba,MUN_030803,030803,Tolata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030901,79,Quillacollo,Quillacollo,Cochabamba,AMC_0309_QUILLACOLLO_COLCAPIRHUA,030901_AMC,AMC Quillacollo + Colcapirhua,SI,2,Colcapirhua (030905) creada en 1985 desde Quillacollo (030901).
+030902,83,SipeSipe,Quillacollo,Cochabamba,MUN_030902,030902,SipeSipe,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030903,81,Tiquipaya,Quillacollo,Cochabamba,MUN_030903,030903,Tiquipaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030904,84,Vinto,Quillacollo,Cochabamba,MUN_030904,030904,Vinto,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+030905,82,Colcapirhua,Quillacollo,Cochabamba,AMC_0309_QUILLACOLLO_COLCAPIRHUA,030901_AMC,AMC Quillacollo + Colcapirhua,SI,2,Colcapirhua (030905) creada en 1985 desde Quillacollo (030901).
+031001,80,Sacaba,Chapare,Cochabamba,MUN_031001,031001,Sacaba,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031002,301,Colomi,Chapare,Cochabamba,MUN_031002,031002,Colomi,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031003,266,Villa Tunari,Chapare,Cochabamba,MUN_031003,031003,Villa Tunari,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031101,162,Tapacarí,Tapacarí,Cochabamba,MUN_031101,031101,Tapacarí,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031201,86,Totora,Carrasco,Cochabamba,AMC_0312_TOTORA_CHIMORE,031201_AMC,AMC Totora + Chimoré,SI,2,Chimoré (031204) creada en 1984 sin cantón separado en 1976.
+031202,298,Pojo,Carrasco,Cochabamba,AMC_0312_POJO_ENTRERIOS,031202_AMC,AMC Pojo + Entre Ríos,SI,2,Entre Ríos (031206) segregada de Pojo (031202) después de 1993.
+031203,274,Pocona,Carrasco,Cochabamba,MUN_031203,031203,Pocona,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031204,267,Chimoré,Carrasco,Cochabamba,AMC_0312_TOTORA_CHIMORE,031201_AMC,AMC Totora + Chimoré,SI,2,Chimoré (031204) creada en 1984 sin cantón separado en 1976.
+031205,283,Puerto Villarroel,Carrasco,Cochabamba,MUN_031205,031205,Puerto Villarroel,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031206,299,Entre Ríos,Carrasco,Cochabamba,AMC_0312_POJO_ENTRERIOS,031202_AMC,AMC Pojo + Entre Ríos,SI,2,Entre Ríos (031206) segregada de Pojo (031202) después de 1993.
+031301,333,Mizque,Mizque,Cochabamba,MUN_031301,031301,Mizque,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031302,303,Vila Vila,Mizque,Cochabamba,MUN_031302,031302,Vila Vila,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031303,302,Alalay,Mizque,Cochabamba,MUN_031303,031303,Alalay,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031401,141,Punata,Punata,Cochabamba,MUN_031401,031401,Punata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031402,12,Villa Rivero,Punata,Cochabamba,AMC_0314_VRIVERO_TACACHI_CUCHUMUELA,031402_AMC,AMC Villa Rivero + Tacachi + Cuchumuela,SI,3,Tacachi (031404) y Cuchumuela (031405) creadas después de 1976 desde Villa Rivero/Punata.
+031403,26,San Benito,Punata,Cochabamba,MUN_031403,031403,San Benito,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031404,123,Tacachi,Punata,Cochabamba,AMC_0314_VRIVERO_TACACHI_CUCHUMUELA,031402_AMC,AMC Villa Rivero + Tacachi + Cuchumuela,SI,3,Tacachi (031404) y Cuchumuela (031405) creadas después de 1976 desde Villa Rivero/Punata.
+031405,122,Cuchumuela,Punata,Cochabamba,AMC_0314_VRIVERO_TACACHI_CUCHUMUELA,031402_AMC,AMC Villa Rivero + Tacachi + Cuchumuela,SI,3,Tacachi (031404) y Cuchumuela (031405) creadas después de 1976 desde Villa Rivero/Punata.
+031501,238,Bolívar,Bolívar,Cochabamba,MUN_031501,031501,Bolívar,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+031601,268,Tiraque,Tiraque,Cochabamba,AMC_0316_TIRAQUE_SHINAHOTA,031601_AMC,AMC Tiraque + Shinahota,SI,2,Shinahota (031602) segregada de Tiraque (031601) después de 1993.
+031602,269,Shinahota,Tiraque,Cochabamba,AMC_0316_TIRAQUE_SHINAHOTA,031601_AMC,AMC Tiraque + Shinahota,SI,2,Shinahota (031602) segregada de Tiraque (031601) después de 1993.
+040101,18,Oruro,Cercado,Oruro,MUN_040101,040101,Oruro,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040102,136,Caracollo,Cercado,Oruro,MUN_040102,040102,Caracollo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040103,126,El Choro,Cercado,Oruro,MUN_040103,040103,El Choro,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040104,129,Soracachi,Cercado,Oruro,MUN_040104,040104,Soracachi,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040201,330,Challapata,Abaroa,Oruro,MUN_040201,040201,Challapata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040202,1,Quillacas,Abaroa,Oruro,MUN_040202,040202,Quillacas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040301,114,Corque,Carangas,Oruro,MUN_040301,040301,Corque,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040302,309,Choque Cota,Carangas,Oruro,MUN_040302,040302,Choque Cota,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040401,308,Curahuara de Carangas,Sajama,Oruro,MUN_040401,040401,Curahuara de Carangas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040402,66,Turco,Sajama,Oruro,MUN_040402,040402,Turco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040501,9,Huachacalla,Litoral,Oruro,AMC_0405_HUACHACALLA_ESCARA,040501_AMC,AMC Huachacalla + Escara,SI,2,Huachacalla (040501) sin cantón homónimo en 1976 (44707 Charcollo remanente en Litoral).
+040502,310,Escara,Litoral,Oruro,AMC_0405_HUACHACALLA_ESCARA,040501_AMC,AMC Huachacalla + Escara,SI,2,Huachacalla (040501) sin cantón homónimo en 1976 (44707 Charcollo remanente en Litoral).
+040503,109,Cruz de Machacamarca,Litoral,Oruro,MUN_040503,040503,Cruz de Machacamarca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040504,108,Yunguyo de Litoral,Litoral,Oruro,MUN_040504,040504,Yunguyo de Litoral,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040505,0,Esmeralda,Litoral,Oruro,MUN_040505,040505,Esmeralda,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040601,63,Poopó,Poopo,Oruro,MUN_040601,040601,Poopó,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040602,11,Pazña,Poopo,Oruro,MUN_040602,040602,Pazña,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040603,110,Antequera,Poopo,Oruro,MUN_040603,040603,Antequera,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040701,8,Huanuni,Pantaleon Dalence,Oruro,MUN_040701,040701,Huanuni,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040702,117,Machacamarca,Pantaleon Dalence,Oruro,MUN_040702,040702,Machacamarca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040801,314,Salinas de García Mendoza,Ladislao Cabrera,Oruro,MUN_040801,040801,Salinas de García Mendoza,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040802,2,Pampa Aullagas,Ladislao Cabrera,Oruro,MUN_040802,040802,Pampa Aullagas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040901,44,Sabaya,Sabaya,Oruro,MUN_040901,040901,Sabaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040902,311,Coipasa,Sabaya,Oruro,MUN_040902,040902,Coipasa,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+040903,312,Chipaya,Sabaya,Oruro,MUN_040903,040903,Chipaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041001,127,Toledo,Saucari,Oruro,MUN_041001,041001,Toledo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041101,133,Eucaliptus,Tomas Barron,Oruro,MUN_041101,041101,Eucaliptus,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041201,13,Santiago de Andamarca,Sur Carangas,Oruro,MUN_041201,041201,Santiago de Andamarca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041202,113,Belén de Andamarca,Sur Carangas,Oruro,MUN_041202,041202,Belén de Andamarca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041301,64,San Pedro de Totora,San Pedro de Totora,Oruro,MUN_041301,041301,San Pedro de Totora,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041401,10,Huari,Sebastián Pagador,Oruro,MUN_041401,041401,Huari,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041501,71,La Rivera,Mejillones,Oruro,MUN_041501,041501,La Rivera,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041502,67,Todos Santos,Mejillones,Oruro,MUN_041502,041502,Todos Santos,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041503,107,Carangas,Mejillones,Oruro,MUN_041503,041503,Carangas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+041601,19,Huayllamarca,Nor Carangas,Oruro,MUN_041601,041601,Huayllamarca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050101,195,Potosí,Tomas Frias,Potosi,MUN_050101,050101,Potosí,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050102,39,Tinguipaya,Tomas Frias,Potosi,MUN_050102,050102,Tinguipaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050103,49,Yocalla,Tomas Frias,Potosi,MUN_050103,050103,Yocalla,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050104,50,Urmiri,Tomas Frias,Potosi,MUN_050104,050104,Urmiri,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050201,331,Uncía,Rafael Bustillo,Potosi,MUN_050201,050201,Uncía,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050202,313,Chayanta,Rafael Bustillo,Potosi,MUN_050202,050202,Chayanta,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050203,3,Llallagua,Rafael Bustillo,Potosi,MUN_050203,050203,Llallagua,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050204,232,Chuquiuta,Rafael Bustillo,Potosi,MUN_050204,050204,Chuquiuta,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050301,65,Betanzos,Cornelio Saavedra,Potosi,MUN_050301,050301,Betanzos,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050302,187,Chaquí,Cornelio Saavedra,Potosi,MUN_050302,050302,Chaquí,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050303,329,Tacobamba,Cornelio Saavedra,Potosi,MUN_050303,050303,Tacobamba,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050401,76,Colquechaca,Chayanta,Potosi,MUN_050401,050401,Colquechaca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050402,332,Ravelo,Chayanta,Potosi,MUN_050402,050402,Ravelo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050403,77,Pocoata,Chayanta,Potosi,MUN_050403,050403,Pocoata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050404,204,Ocurí,Chayanta,Potosi,MUN_050404,050404,Ocurí,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050501,40,S.P. De Buena Vista,Charcas,Potosi,MUN_050501,050501,S.P. De Buena Vista,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050502,99,Toro Toro,Charcas,Potosi,MUN_050502,050502,Toro Toro,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050601,335,Cotagaita,Nor Chichas,Potosi,MUN_050601,050601,Cotagaita,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050602,115,Vitichi,Nor Chichas,Potosi,MUN_050602,050602,Vitichi,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050701,6,Villa de Sacaca,Alonso de Ibañez,Potosi,MUN_050701,050701,Villa de Sacaca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050702,4,Caripuyo,Alonso de Ibañez,Potosi,MUN_050702,050702,Caripuyo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050801,315,Tupiza,Sur Chichas,Potosi,MUN_050801,050801,Tupiza,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050802,316,Atocha,Sur Chichas,Potosi,MUN_050802,050802,Atocha,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+050901,42,"Colcha ""K""",Nor Lípez,Potosi,AMC_0509_0516_NORLIPEZ_BALDIVIESO,050901_AMC,AMC Nor Lípez + Enrique Baldivieso,SI,3,56101/56102 ZONA I y II (9.162 hab.) mezclan CP y PD de los 3 municipios (INE Vol. 11 pág. 105; Ley 707/1985).
+050902,317,San Pedro de Quemes,Nor Lípez,Potosi,AMC_0509_0516_NORLIPEZ_BALDIVIESO,050901_AMC,AMC Nor Lípez + Enrique Baldivieso,SI,3,56101/56102 ZONA I y II (9.162 hab.) mezclan CP y PD de los 3 municipios (INE Vol. 11 pág. 105; Ley 707/1985).
+051001,103,San Pablo de Lipez,Sur Lípez,Potosi,MUN_051001,051001,San Pablo de Lipez,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051002,93,Mojinete,Sur Lípez,Potosi,MUN_051002,051002,Mojinete,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051003,91,San Antonio de Esmoruco,Sur Lípez,Potosi,MUN_051003,051003,San Antonio de Esmoruco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051101,188,Puna,José Maria Linares,Potosi,MUN_051101,051101,Puna,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051102,184,"Caiza ""D""",José Maria Linares,Potosi,MUN_051102,051102,"Caiza ""D""",NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051103,189,Ckochas,José Maria Linares,Potosi,MUN_051103,051103,Ckochas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051201,306,Uyuni,Antonio Quijarro,Potosi,MUN_051201,051201,Uyuni,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051202,46,Tomave,Antonio Quijarro,Potosi,MUN_051202,051202,Tomave,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051203,47,Porco,Antonio Quijarro,Potosi,MUN_051203,051203,Porco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051301,118,Arampampa,Bernardino Bilbao Rioja,Potosi,MUN_051301,051301,Arampampa,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051302,7,Acasio,Bernardino Bilbao Rioja,Potosi,MUN_051302,051302,Acasio,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051401,78,Llica,Daniel Campos,Potosi,MUN_051401,051401,Llica,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051402,102,Tahua,Daniel Campos,Potosi,MUN_051402,051402,Tahua,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051501,337,Villazón,Modesto Omiste,Potosi,MUN_051501,051501,Villazón,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+051601,100,San Agustín,Enrique Baldivieso,Potosi,AMC_0509_0516_NORLIPEZ_BALDIVIESO,050901_AMC,AMC Nor Lípez + Enrique Baldivieso,SI,3,56101/56102 ZONA I y II (9.162 hab.) mezclan CP y PD de los 3 municipios (INE Vol. 11 pág. 105; Ley 707/1985).
+060101,101,Tarija,Cercado,Tarija,MUN_060101,060101,Tarija,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060201,338,Padcaya,Aniceto Arce,Tarija,MUN_060201,060201,Padcaya,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060202,321,Bermejo,Aniceto Arce,Tarija,MUN_060202,060202,Bermejo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060301,94,Yacuiba,Gran Chaco,Tarija,MUN_060301,060301,Yacuiba,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060302,96,Caraparí,Gran Chaco,Tarija,MUN_060302,060302,Caraparí,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060303,48,Villamontes,Gran Chaco,Tarija,MUN_060303,060303,Villamontes,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060401,92,Uriondo,Aviles,Tarija,MUN_060401,060401,Uriondo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060402,95,Yunchará,Aviles,Tarija,MUN_060402,060402,Yunchará,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060501,97,Villa San Lorenzo,Méndez,Tarija,MUN_060501,060501,Villa San Lorenzo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060502,98,El Puente,Méndez,Tarija,MUN_060502,060502,El Puente,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+060601,72,Entre Ríos,Burnet O' Oconnor,Tarija,MUN_060601,060601,Entre Ríos,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070101,55,Santa Cruz de la Sierra,Andrés Ibañez,Santa Cruz,MUN_070101,070101,Santa Cruz de la Sierra,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070102,260,Cotoca,Andrés Ibañez,Santa Cruz,MUN_070102,070102,Cotoca,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070103,54,Porongo,Andrés Ibañez,Santa Cruz,MUN_070103,070103,Porongo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070104,31,La Guardia,Andrés Ibañez,Santa Cruz,AMC_0701_LAGUARDIA_ELTORNO,070104_AMC,AMC La Guardia + El Torno,SI,2,77407 Guardia incluía CP El Torno (INE Vol. 11 pág. 133) y 77408 Villa Arrien comparte ambos municipios.
+070105,33,El Torno,Andrés Ibañez,Santa Cruz,AMC_0701_LAGUARDIA_ELTORNO,070104_AMC,AMC La Guardia + El Torno,SI,2,77407 Guardia incluía CP El Torno (INE Vol. 11 pág. 133) y 77408 Villa Arrien comparte ambos municipios.
+070201,276,Warnes,Warnes,Santa Cruz,AMC_0702_WARNES_OKINAWA,070201_AMC,AMC Warnes + Okinawa Uno,SI,2,Okinawa Uno (070202) segregada de Warnes; CP Okinawa figuraba dentro de 77501 Chacos (Vol. 11 pág. 134).
+070202,275,Okinawa Uno,Warnes,Santa Cruz,AMC_0702_WARNES_OKINAWA,070201_AMC,AMC Warnes + Okinawa Uno,SI,2,Okinawa Uno (070202) segregada de Warnes; CP Okinawa figuraba dentro de 77501 Chacos (Vol. 11 pág. 134).
+070301,293,San Ignacio de Velasco,Velasco,Santa Cruz,MUN_070301,070301,San Ignacio de Velasco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070302,265,San Miguel de Velasco,Velasco,Santa Cruz,MUN_070302,070302,San Miguel de Velasco,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070303,291,San Rafael,Velasco,Santa Cruz,MUN_070303,070303,San Rafael,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070401,87,Buena Vista,Ichilo,Santa Cruz,MUN_070401,070401,Buena Vista,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070402,88,San Carlos,Ichilo,Santa Cruz,AMC_0704_SANCARLOS_YAPACANI_SANJUAN,070402_AMC,AMC San Carlos + Yapacaní + San Juan,SI,3,77701 San Carlos (28.898 hab.) incluía CP Yapacaní y CP San Juan (INE Vol. 11 pág. 135).
+070403,261,Yapacaní,Ichilo,Santa Cruz,AMC_0704_SANCARLOS_YAPACANI_SANJUAN,070402_AMC,AMC San Carlos + Yapacaní + San Juan,SI,3,77701 San Carlos (28.898 hab.) incluía CP Yapacaní y CP San Juan (INE Vol. 11 pág. 135).
+070404,38,San Juan de Yapacaní,Ichilo,Santa Cruz,AMC_0704_SANCARLOS_YAPACANI_SANJUAN,070402_AMC,AMC San Carlos + Yapacaní + San Juan,SI,3,77701 San Carlos (28.898 hab.) incluía CP Yapacaní y CP San Juan (INE Vol. 11 pág. 135).
+070501,290,San José de Chiquitos,Chiquitos,Santa Cruz,MUN_070501,070501,San José de Chiquitos,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070502,278,Pailón,Chiquitos,Santa Cruz,MUN_070502,070502,Pailón,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070503,287,Roboré,Chiquitos,Santa Cruz,MUN_070503,070503,Roboré,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070601,90,Portachuelo,Sara,Santa Cruz,AMC_0706_PORTACHUELO_COLPABELGICA,070601_AMC,AMC Portachuelo + Colpa Bélgica,SI,2,"77906 Pereoto (8.194 hab.) incluía CP La Bélgica (4.294 hab., INE Vol. 11 pág. 137)."
+070602,69,Santa Rosa del Sara,Sara,Santa Cruz,MUN_070602,070602,Santa Rosa del Sara,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070603,284,Colpa Belgica,Sara,Santa Cruz,AMC_0706_PORTACHUELO_COLPABELGICA,070601_AMC,AMC Portachuelo + Colpa Bélgica,SI,2,"77906 Pereoto (8.194 hab.) incluía CP La Bélgica (4.294 hab., INE Vol. 11 pág. 137)."
+070701,197,Lagunillas,Cordillera,Santa Cruz,MUN_070701,070701,Lagunillas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070702,289,Charagua,Cordillera,Santa Cruz,MUN_070702,070702,Charagua,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070703,259,Cabezas,Cordillera,Santa Cruz,MUN_070703,070703,Cabezas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070704,249,Cuevo,Cordillera,Santa Cruz,MUN_070704,070704,Cuevo,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070705,253,Gutiérrez,Cordillera,Santa Cruz,MUN_070705,070705,Gutiérrez,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070706,250,Camiri,Cordillera,Santa Cruz,MUN_070706,070706,Camiri,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070707,248,Boyuibe,Cordillera,Santa Cruz,MUN_070707,070707,Boyuibe,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070801,252,Vallegrande,Vallegrande,Santa Cruz,MUN_070801,070801,Vallegrande,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070802,257,Trigal,Vallegrande,Santa Cruz,MUN_070802,070802,Trigal,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070803,32,Moro Moro,Vallegrande,Santa Cruz,MUN_070803,070803,Moro Moro,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070804,256,Postrer Valle,Vallegrande,Santa Cruz,MUN_070804,070804,Postrer Valle,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070805,245,Pucara,Vallegrande,Santa Cruz,MUN_070805,070805,Pucara,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070901,34,Samaipata,Florida,Santa Cruz,MUN_070901,070901,Samaipata,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070902,281,Pampa Grande,Florida,Santa Cruz,MUN_070902,070902,Pampa Grande,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070903,282,Mairana,Florida,Santa Cruz,MUN_070903,070903,Mairana,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+070904,258,Quirusillas,Florida,Santa Cruz,MUN_070904,070904,Quirusillas,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071001,270,Montero,Obispo Santiestevan,Santa Cruz,MUN_071001,071001,Montero,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071002,277,Gral. Saavedra,Obispo Santiestevan,Santa Cruz,AMC_0710_SAAVEDRA_MINEROS,071002_AMC,AMC Gral. Saavedra + Mineros + F. Alonso + San Pedro,SI,4,78301 Saavedra (41.223 hab.) previo a la creación de Mineros (Ley 577/1983) y subdivisiones 2002.
+071003,280,Mineros,Obispo Santiestevan,Santa Cruz,AMC_0710_SAAVEDRA_MINEROS,071002_AMC,AMC Gral. Saavedra + Mineros + F. Alonso + San Pedro,SI,4,78301 Saavedra (41.223 hab.) previo a la creación de Mineros (Ley 577/1983) y subdivisiones 2002.
+071004,279,Fernández Alonso,Obispo Santiestevan,Santa Cruz,AMC_0710_SAAVEDRA_MINEROS,071002_AMC,AMC Gral. Saavedra + Mineros + F. Alonso + San Pedro,SI,4,78301 Saavedra (41.223 hab.) previo a la creación de Mineros (Ley 577/1983) y subdivisiones 2002.
+071005,58,San Pedro,Obispo Santiestevan,Santa Cruz,AMC_0710_SAAVEDRA_MINEROS,071002_AMC,AMC Gral. Saavedra + Mineros + F. Alonso + San Pedro,SI,4,78301 Saavedra (41.223 hab.) previo a la creación de Mineros (Ley 577/1983) y subdivisiones 2002.
+071101,68,Concepción,Ñuflo de Chávez,Santa Cruz,AMC_0711_CONCEPCION_SANJULIAN_4CANADAS,071101_AMC,AMC Concepción + San Julián + Cuatro Cañadas,SI,3,Cuatro Cañadas (071106) segregada de Concepción/San Julián después de 1993.
+071102,264,San Javier,Ñuflo de Chávez,Santa Cruz,MUN_071102,071102,San Javier,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071103,263,San Ramón,Ñuflo de Chávez,Santa Cruz,MUN_071103,071103,San Ramón,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071104,318,San Julián,Ñuflo de Chávez,Santa Cruz,AMC_0711_CONCEPCION_SANJULIAN_4CANADAS,071101_AMC,AMC Concepción + San Julián + Cuatro Cañadas,SI,3,Cuatro Cañadas (071106) segregada de Concepción/San Julián después de 1993.
+071105,297,San Antonio de Lomerío,Ñuflo de Chávez,Santa Cruz,MUN_071105,071105,San Antonio de Lomerío,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071106,262,Cuatro Cañadas,Ñuflo de Chávez,Santa Cruz,AMC_0711_CONCEPCION_SANJULIAN_4CANADAS,071101_AMC,AMC Concepción + San Julián + Cuatro Cañadas,SI,3,Cuatro Cañadas (071106) segregada de Concepción/San Julián después de 1993.
+071201,288,San Matías,Angel Sandoval,Santa Cruz,MUN_071201,071201,San Matías,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071301,320,Comarapa,Manuel Maria Caballero,Santa Cruz,MUN_071301,071301,Comarapa,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071302,52,Saipina,Manuel Maria Caballero,Santa Cruz,MUN_071302,071302,Saipina,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071401,285,Puerto Suarez,German Busch,Santa Cruz,AMC_0714_PTOSUAREZ_PTOQUIJARRO,071401_AMC,AMC Puerto Suárez + Puerto Quijarro,SI,2,Puerto Quijarro (071402) segregada de Puerto Suárez; CP Quijarro figuraba dentro de 77810 (Vol. 11 pág. 136).
+071402,22,Puerto Quijarro,German Busch,Santa Cruz,AMC_0714_PTOSUAREZ_PTOQUIJARRO,071401_AMC,AMC Puerto Suárez + Puerto Quijarro,SI,2,Puerto Quijarro (071402) segregada de Puerto Suárez; CP Quijarro figuraba dentro de 77810 (Vol. 11 pág. 136).
+071403,286,Carmen Rivero Torrez,German Busch,Santa Cruz,MUN_071403,071403,Carmen Rivero Torrez,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071501,271,Ascensión de Guarayos,Guarayos,Santa Cruz,MUN_071501,071501,Ascensión de Guarayos,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071502,294,Urubichá,Guarayos,Santa Cruz,MUN_071502,071502,Urubichá,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+071503,319,El Puente,Guarayos,Santa Cruz,MUN_071503,071503,El Puente,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+080101,296,Trinidad,Cercado,Beni,AMC_0801_BENI_CERCADO,080101_AMC,AMC Beni Cercado (Trinidad + San Javier),SI,2,88701/88702 ZONA 1-2 sin desagregación municipal en 1976.
+080102,57,San Javier,Cercado,Beni,AMC_0801_BENI_CERCADO,080101_AMC,AMC Beni Cercado (Trinidad + San Javier),SI,2,88701/88702 ZONA 1-2 sin desagregación municipal en 1976.
+080201,219,Riberalta,Vaca Diez,Beni,AMC_0802_BENI_VACADIEZ,080201_AMC,AMC Vaca Díez (Riberalta + Guayaramerín),SI,2,88801-88805 ZONA 1-5 sin desagregación municipal en 1976.
+080202,226,Guayaramerín,Vaca Diez,Beni,AMC_0802_BENI_VACADIEZ,080201_AMC,AMC Vaca Díez (Riberalta + Guayaramerín),SI,2,88801-88805 ZONA 1-5 sin desagregación municipal en 1976.
+080301,215,Reyes,José Ballivián,Beni,AMC_0803_BENI_BALLIVIAN,080301_AMC,AMC Gral. José Ballivián (Reyes + San Borja + Santa Rosa + Rurrenabaque),SI,4,88901-88905 ZONA 1-5 sin desagregación municipal en 1976.
+080302,214,San Borja,José Ballivián,Beni,AMC_0803_BENI_BALLIVIAN,080301_AMC,AMC Gral. José Ballivián (Reyes + San Borja + Santa Rosa + Rurrenabaque),SI,4,88901-88905 ZONA 1-5 sin desagregación municipal en 1976.
+080303,148,Santa Rosa,José Ballivián,Beni,AMC_0803_BENI_BALLIVIAN,080301_AMC,AMC Gral. José Ballivián (Reyes + San Borja + Santa Rosa + Rurrenabaque),SI,4,88901-88905 ZONA 1-5 sin desagregación municipal en 1976.
+080304,211,Rurrenabaque,José Ballivián,Beni,AMC_0803_BENI_BALLIVIAN,080301_AMC,AMC Gral. José Ballivián (Reyes + San Borja + Santa Rosa + Rurrenabaque),SI,4,88901-88905 ZONA 1-5 sin desagregación municipal en 1976.
+080401,213,Santa Ana de Yacuma,Yacuma,Beni,AMC_0804_BENI_YACUMA,080401_AMC,AMC Yacuma (Santa Ana + Exaltación),SI,2,89001-89005 ZONA 1-5 sin desagregación municipal en 1976.
+080402,218,Exaltación,Yacuma,Beni,AMC_0804_BENI_YACUMA,080401_AMC,AMC Yacuma (Santa Ana + Exaltación),SI,2,89001-89005 ZONA 1-5 sin desagregación municipal en 1976.
+080501,56,San Ignacio,Moxos,Beni,MUN_080501,080501,San Ignacio,NO,1,Municipio individual conservado 1-a-1 sin fusión.
+080601,45,Loreto,Marban,Beni,AMC_0806_BENI_MARBAN,080601_AMC,AMC Marbán (Loreto + San Andrés),SI,2,89201-89205 ZONA 1-5 sin desagregación municipal en 1976.
+080602,272,San Andrés,Marban,Beni,AMC_0806_BENI_MARBAN,080601_AMC,AMC Marbán (Loreto + San Andrés),SI,2,89201-89205 ZONA 1-5 sin desagregación municipal en 1976.
+080701,73,San Joaquín,Mamore,Beni,AMC_0807_BENI_MAMORE,080701_AMC,AMC Mamoré (San Joaquín + San Ramón + Puerto Siles),SI,3,89301-89305 ZONA 1-5 sin desagregación municipal en 1976.
+080702,74,San Ramón,Mamore,Beni,AMC_0807_BENI_MAMORE,080701_AMC,AMC Mamoré (San Joaquín + San Ramón + Puerto Siles),SI,3,89301-89305 ZONA 1-5 sin desagregación municipal en 1976.
+080703,217,Puerto Siles,Mamore,Beni,AMC_0807_BENI_MAMORE,080701_AMC,AMC Mamoré (San Joaquín + San Ramón + Puerto Siles),SI,3,89301-89305 ZONA 1-5 sin desagregación municipal en 1976.
+080801,89,Magdalena,Itenez,Beni,AMC_0808_BENI_ITENEZ,080801_AMC,AMC Iténez (Magdalena + Baures + Huacaraje),SI,3,89401-89405 ZONA 1-5 sin desagregación municipal en 1976.
+080802,295,Baures,Itenez,Beni,AMC_0808_BENI_ITENEZ,080801_AMC,AMC Iténez (Magdalena + Baures + Huacaraje),SI,3,89401-89405 ZONA 1-5 sin desagregación municipal en 1976.
+080803,70,Huacaraje,Itenez,Beni,AMC_0808_BENI_ITENEZ,080801_AMC,AMC Iténez (Magdalena + Baures + Huacaraje),SI,3,89401-89405 ZONA 1-5 sin desagregación municipal en 1976.
+090101,132,Cobija,Nicolás Suárez,Pando,AMC_0901_PANDO_NICOLASSUAREZ,090101_AMC,AMC Nicolás Suárez (Cobija + Porvenir + Bolpebra + Bella Flor),SI,4,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090102,220,Porvenir,Nicolás Suárez,Pando,AMC_0901_PANDO_NICOLASSUAREZ,090101_AMC,AMC Nicolás Suárez (Cobija + Porvenir + Bolpebra + Bella Flor),SI,4,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090103,233,Bolpebra,Nicolás Suárez,Pando,AMC_0901_PANDO_NICOLASSUAREZ,090101_AMC,AMC Nicolás Suárez (Cobija + Porvenir + Bolpebra + Bella Flor),SI,4,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090104,221,Bella Flor,Nicolás Suárez,Pando,AMC_0901_PANDO_NICOLASSUAREZ,090101_AMC,AMC Nicolás Suárez (Cobija + Porvenir + Bolpebra + Bella Flor),SI,4,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090201,223,Puerto Rico,Manuripi,Pando,AMC_0902_PANDO_MANURIPI,090201_AMC,AMC Manuripi (Puerto Rico + San Pedro + Filadelfia),SI,3,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090202,222,San Pedro,Manuripi,Pando,AMC_0902_PANDO_MANURIPI,090201_AMC,AMC Manuripi (Puerto Rico + San Pedro + Filadelfia),SI,3,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090203,234,Filadelfia,Manuripi,Pando,AMC_0902_PANDO_MANURIPI,090201_AMC,AMC Manuripi (Puerto Rico + San Pedro + Filadelfia),SI,3,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090301,216,Puerto Gonzales Moreno,Madre de Dios,Pando,AMC_0903_PANDO_MADREDEDIOS,090301_AMC,AMC Madre de Dios (Puerto Gonzalo Moreno + San Lorenzo + Sena),SI,3,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090302,147,San Lorenzo,Madre de Dios,Pando,AMC_0903_PANDO_MADREDEDIOS,090301_AMC,AMC Madre de Dios (Puerto Gonzalo Moreno + San Lorenzo + Sena),SI,3,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090303,146,El Sena,Madre de Dios,Pando,AMC_0903_PANDO_MADREDEDIOS,090301_AMC,AMC Madre de Dios (Puerto Gonzalo Moreno + San Lorenzo + Sena),SI,3,Reorganización cantonal/municipal integral de Pando posterior a 1976.
+090401,224,Santa Rosa,Abuna,Pando,AMC_0904_PANDO_ABUNA,090401_AMC,AMC Abuná (Santa Rosa + Ingavi),SI,2,99801 Abuná (3.061 hab.) agregado provincial único en 1976.
+090402,225,Ingavi,Abuna,Pando,AMC_0904_PANDO_ABUNA,090401_AMC,AMC Abuná (Santa Rosa + Ingavi),SI,2,99801 Abuná (3.061 hab.) agregado provincial único en 1976.
+090501,229,Nueva Esperanza,Federico Román,Pando,AMC_0905_PANDO_FEDERICOROMAN,090501_AMC,AMC Gral. Federico Román (Nueva Esperanza + Villa Nueva + Santos Mercado),SI,3,99901 Gral. Federico Román (2.013 hab.) agregado provincial único en 1976.
+090502,227,Villa Nueva (Loma Alta),Federico Román,Pando,AMC_0905_PANDO_FEDERICOROMAN,090501_AMC,AMC Gral. Federico Román (Nueva Esperanza + Villa Nueva + Santos Mercado),SI,3,99901 Gral. Federico Román (2.013 hab.) agregado provincial único en 1976.
+090503,228,Santos Mercado,Federico Román,Pando,AMC_0905_PANDO_FEDERICOROMAN,090501_AMC,AMC Gral. Federico Román (Nueva Esperanza + Villa Nueva + Santos Mercado),SI,3,99901 Gral. Federico Román (2.013 hab.) agregado provincial único en 1976.

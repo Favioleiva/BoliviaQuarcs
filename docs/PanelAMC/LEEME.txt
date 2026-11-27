@@ -1,0 +1,12 @@
+CONTRACT 03 — PANEL PARALELO AMC 1976–2024 (291 ÁREAS, 0 POLÍGONOS VACÍOS, 100,00% BALANCEADO)
+Autor: Favio Leiva | Estrategia aprobada por el supervisor el 2026-11-27
+
+DISEÑO Y TRANSPARENCIA
+- 290 áreas estables: 256 municipios individuales intactos + 34 uniones AMC documentadas.
+- 0 polígonos vacíos en todo el mapa de Bolivia.
+- Separación explícita en columnas:
+  * population_1976_exact = 4,534,252 / 4.613.419 (98.28%) observada/documentada (cero imputaciones).
+  * imputed_1976 = 79,167 (1.72%) de 104 cantones menores repartidos únicamente dentro de su propia provincia 1992 validada según proporción poblacional 1992 (redondeo entero Hamilton).
+  * population_1976 = 4,613,419 (100,00% balance nacional exacto).
+- Áreas 100% exactas (0% imputado): 179 · Áreas con balanceo intraprovincial explícito: 111.
+- Totales 1992–2024 exactos al habitante: 1992=6,420,792; 2001=8,274,325; 2012=10,059,856; 2024=11,365,333.

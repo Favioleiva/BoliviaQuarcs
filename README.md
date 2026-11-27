@@ -95,3 +95,16 @@ five viewport sizes, and year/clear/zoom/fit interactions tested with mouse,
 keyboard and touch. HTML remains self-contained and works offline.
 Readable enhancement sources accompany the inline code in
 `docs/Panel339/assets/interaction.css` and `interaction.js`.
+
+## Panel de largo plazo 1976–2024 (290 Áreas Mínimas Comparables — AMC)
+
+Además del panel estándar `1992–2024` de 339 municipios ([docs/Panel339/index.html](docs/Panel339/index.html)), el repositorio incorpora ahora el **Panel de largo plazo 1976–2024** ([docs/PanelAMC/index.html](docs/PanelAMC/index.html)) sobre un shapefile propio simplificado de **290 Áreas Mínimas Comparables (AMC)** (`256` municipios intactos + `34` uniones AMC documentadas, **0 polígonos vacíos**). Ambos visores están enlazados mediante un selector bilingüe **ES/EN** en la parte superior.
+
+- **Censo 1976 (4.613.419 hab.):** `4.534.252` hab. (**98,28%**) asignados de forma exacta sin imputación (INE Volumen 11, catálogos cantonales 2001, CDRN y leyes de creación) + `79.167` hab. (**1,72%**) mediante balanceo intraprovincial 1992 con redondeo entero Hamilton (`179` áreas 100% exactas y `111` con balanceo explícito separado en `population_1976_exact` e `imputed_1976`).
+- **Censos 1992–2024:** suma exacta de municipios miembros (`6.420.792`, `8.274.325`, `10.059.856`, `11.365.333`).
+- **Escala cromática:** `log10` continua acotada **P2–P98** (`≤ 840` a `≥ 185.752`).
+- **Descargas AMC:** [Panel ancho 290 AMC](docs/PanelAMC/population_panel_amc_1976_2024_wide.csv) · [Panel largo (1.450 filas)](docs/PanelAMC/population_panel_amc_1976_2024_long.csv) · [Puente 339 → 290 AMC](docs/PanelAMC/amc_to_geo4bolivia339_bridge.csv) · [Shapefile 290 AMC (ZIP)](docs/PanelAMC/population_panel_amc_1976_2024_shp.zip) · [GeoPackage](docs/PanelAMC/population_panel_amc_1976_2024.gpkg) · [Métodos AMC](docs/PanelAMC/LEEME.txt).
+
+### Long-term panel 1976–2024 (290 Minimum Comparable Areas — AMC)
+
+Alongside the standard `1992–2024` 339-municipality panel (`docs/Panel339/index.html`), this repository now includes the **1976–2024 Long-Term Panel** (`docs/PanelAMC/index.html`) built on a dedicated simplified **290 Minimum Comparable Areas (AMC)** shapefile (`256` intact municipalities + `34` documented AMC unions, **0 empty polygons**), linked via a bilingual **ES/EN** switcher at the top of both dashboards. In 1976, `98.28%` (`4,534,252`) is exact observed and `1.72%` (`79,167`) is allocated within validated 1992 provinces by 1992 shares (explicitly separated in `population_1976_exact` and `imputed_1976`), with a P2–P98 clamped `log10` color scale.

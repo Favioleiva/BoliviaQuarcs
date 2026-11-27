@@ -1,0 +1,2307 @@
+{
+  "entries": [
+    {
+      "key": "INE_CNPV1992_panel",
+      "type": "dataset",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "title": "Censo Nacional de Población y Vivienda 1992: microdatos Redatam",
+        "year": "1992",
+        "url": "https://anda.ine.gob.bo/index.php/catalog/47",
+        "note": "Distribución local cpv1992com, 339 municipios. Se cuentan registros PERSONA mediante punteros. No se certifican límites originales de 1992."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "INE_CNPV2001_panel",
+      "type": "dataset",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "title": "Censo Nacional de Población y Vivienda 2001: microdatos Redatam",
+        "year": "2001",
+        "url": "https://redatam.org/es/microdatos",
+        "note": "Cp2001BOL.zip. Agregación LOCALIDA mediante diccionario de población2001 v1 congelado por el supervisor el 19 de noviembre de 2026. Referencias individuales del diccionario en referencias_2001_congeladas.bib."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "INE_CNPV2012_panel",
+      "type": "dataset",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "title": "Censo Nacional de Población y Vivienda 2012: microdatos Redatam",
+        "year": "2012",
+        "url": "https://anda.ine.gob.bo/index.php/catalog/8",
+        "note": "Fuente local CPV2012Comunidad.dicx y archivos asociados. Lectura de 10059856 personas en 339 municipios. Puente de códigos a referencia2015; equivalencia de límites históricos no certificada."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "INE_CPV2024_panel",
+      "type": "dataset",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "title": "Censo de Población y Vivienda 2024: microdatos CSV de personas",
+        "year": "2024",
+        "url": "https://fm.ine.gob.bo/index.php/catalog/132",
+        "note": "Fuente local Persona_CPV-2024.csv, 11365333 registros. Conteos por idep, iprov, imun. No se utiliza la población del shapefile para construir este panel."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "Mendez_GeoBolivia339_panel",
+      "type": "dataset",
+      "fields": {
+        "author": "Mendez, Carlos and {GeoBolivia}",
+        "title": "Geografía de referencia de 339 municipios: bolivia339geoqueryOpt.geojson",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/raw/boundaries/bolivia339geoqueryOpt.geojson",
+        "urldate": "2026-11-19",
+        "note": "Referencia2015 seleccionada por el supervisor. SHA256: 52f50770b20fc8d73540151c1c625deec19ae712f44bcecb8ba2364f11620372. Geometría preservada sin modificaciones."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "SDSN2025_boundaries_panel",
+      "type": "dataset",
+      "fields": {
+        "author": "{SDSN Bolivia}",
+        "title": "Límites Municipales Bolivia 2025 [Archivo shapefile]",
+        "year": "2025",
+        "url": "https://sdsnbolivia.org/datos-espaciales/",
+        "note": "Cartografía de 343 unidades usada para las intersecciones. Puente de siete códigos entre mapa y microdata2024 preservado en code_bridge_2024_seven_corrections.csv."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "Mendez2026_classification_panel",
+      "type": "dataset",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "municipalities343.csv: clasificación de cambios territoriales",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/raw/lookups/municipalities343.csv",
+        "urldate": "2026-11-19",
+        "note": "Clasificación publicada: 333 unidades compatibles, seis existentes modificadas y cuatro nuevas. Uso autorizado explícitamente por el supervisor."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "Supervisor2026_majority_area_panel",
+      "type": "misc",
+      "fields": {
+        "author": "{Supervisor del proyecto Bolivia}",
+        "title": "Decisión metodológica: asignar la unidad nueva completa al polígono de mayor superficie compartida",
+        "year": "2026",
+        "note": "Instrucción del 19 de noviembre de 2026, descrita por el supervisor como regla de su tesis sobre Perú. No se atribuye una referencia bibliográfica a esa tesis sin sus datos. Acta local: Evidence/population_panel339_authorization.json. Regla aplicada a las diez unidades2024 afectadas; peso de asignación uno."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "geo4bolivia2026_visual_reference",
+      "type": "misc",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "{GeoDevelopment Observatory of Bolivia}: website visual reference",
+        "year": "2026",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/tree/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/site",
+        "urldate": "2026-11-19",
+        "note": "Local design adaptation informed by site/src/styles.css and site/src/app.jsx. Not an official observatory website."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "EOX2016_panel_satellite",
+      "type": "misc",
+      "fields": {
+        "author": "{EOX IT Services GmbH}",
+        "title": "Sentinel-2 cloudless 2016",
+        "year": "2016",
+        "url": "https://s2maps.eu/",
+        "urldate": "2026-11-19",
+        "note": "CC BY 4.0. Hero image obtained from the geo4bolivia repository, commit 5fd1dbe9b508cc6996daa62ae15b9d224094f1c4, with attribution as recorded in its README. Displayed with a dark overlay and responsive cropping."
+      },
+      "group": "panel",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib"
+      ]
+    },
+    {
+      "key": "Mendez2026_geo4bolivia_conversion_review",
+      "type": "software",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "GeoDevelopment Observatory of Bolivia: geo4bolivia",
+        "year": "2026",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/tree/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4",
+        "urldate": "2026-11-19",
+        "note": "Commit 5fd1dbe9b508cc6996daa62ae15b9d224094f1c4. Revisión estática de código y validación de la tabla publicada; constructores no ejecutados."
+      },
+      "group": "conversion",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/Mendez_conversion_2024_references.bib"
+      ]
+    },
+    {
+      "key": "Mendez2026_match343",
+      "type": "online",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "match_municipalities343.py: correspondencia del mapa SDSN2025 con identificadores anteriores",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/scripts/match_municipalities343.py",
+        "urldate": "2026-11-19",
+        "note": "Umbral de cambio: intersección/unión menor a 0.95; parents registra intersecciones mayores al 1 por ciento del área nueva."
+      },
+      "group": "conversion",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/Mendez_conversion_2024_references.bib"
+      ]
+    },
+    {
+      "key": "Mendez2026_lookup343",
+      "type": "dataset",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "municipalities343.csv: códigos, cambios y progenitores territoriales",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/raw/lookups/municipalities343.csv",
+        "urldate": "2026-11-19",
+        "note": "343 filas; 333 sin cambio según el criterio del autor y 10 cambiadas o nuevas. No es una matriz de redistribución poblacional."
+      },
+      "group": "conversion",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/Mendez_conversion_2024_references.bib"
+      ]
+    },
+    {
+      "key": "Mendez2026_geo_builder",
+      "type": "online",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "Constructor geográfico y link_ds4bolivia_polygons",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/src/geo4bolivia/build/geo.py",
+        "urldate": "2026-11-19"
+      },
+      "group": "conversion",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/Mendez_conversion_2024_references.bib"
+      ]
+    },
+    {
+      "key": "Mendez2026_sdg_builder",
+      "type": "online",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "Constructor ODS y origen de la población censal 2012/2024",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/src/geo4bolivia/build/sdg.py",
+        "urldate": "2026-11-19",
+        "note": "La función _census lee Pob_2012 y Pob_2024 del DBF SDSN2025; no utiliza microdatos individuales."
+      },
+      "group": "conversion",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/Mendez_conversion_2024_references.bib"
+      ]
+    },
+    {
+      "key": "Mendez2026_map_vintages",
+      "type": "online",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "Contributing data: Add a municipality map of another vintage",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/CONTRIBUTING_DATA.md",
+        "urldate": "2026-11-19"
+      },
+      "group": "conversion",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/Mendez_conversion_2024_references.bib"
+      ]
+    },
+    {
+      "key": "Mendez2026_raw_provenance",
+      "type": "online",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "Raw inputs: procedencia de límites, datos y cambios territoriales",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/blob/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4/raw/README.md",
+        "urldate": "2026-11-19",
+        "note": "La afirmación de overlap superior a 0.99 para las 333 unidades tiene cuatro excepciones en la tabla; mínimo observado 0.9836."
+      },
+      "group": "conversion",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/Mendez_conversion_2024_references.bib"
+      ]
+    },
+    {
+      "key": "INE_catalog",
+      "type": "misc",
+      "fields": {
+        "title": "INE_catalog",
+        "url": "https://www.ine.gob.bo/index.php/censos-y-banco-de-datos/censos/",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "ANDA1976",
+      "type": "misc",
+      "fields": {
+        "title": "ANDA1976",
+        "url": "https://anda.ine.gob.bo/index.php/catalog/46/related-materials",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "ANDA1992",
+      "type": "misc",
+      "fields": {
+        "title": "ANDA1992",
+        "url": "https://anda.ine.gob.bo/index.php/catalog/47",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "ANDA2001",
+      "type": "misc",
+      "fields": {
+        "title": "ANDA2001",
+        "url": "https://anda.ine.gob.bo/index.php/catalog/10",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "ANDA2012",
+      "type": "misc",
+      "fields": {
+        "title": "ANDA2012",
+        "url": "https://anda.ine.gob.bo/index.php/catalog/8",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "ANDA2024",
+      "type": "misc",
+      "fields": {
+        "title": "ANDA2024",
+        "url": "https://anda.ine.gob.bo/index.php/catalog/132/related-materials",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "INE_Geoportal",
+      "type": "misc",
+      "fields": {
+        "title": "INE_Geoportal",
+        "url": "https://geoportal.ine.gob.bo/",
+        "note": "Consultado 2026-11-18. no_readable_content"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "INE_Redatam",
+      "type": "misc",
+      "fields": {
+        "title": "INE_Redatam",
+        "url": "https://redatam.ine.gob.bo/",
+        "note": "Consultado 2026-11-18. direct_fetch_502_search_index_available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "INE2001_343",
+      "type": "misc",
+      "fields": {
+        "title": "INE2001_343",
+        "url": "https://nube.ine.gob.bo/index.php/s/3X9rZTENwQknVTP",
+        "note": "Consultado 2026-11-18. inaccessible_via_web_tool"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "INE2012_343",
+      "type": "misc",
+      "fields": {
+        "title": "INE2012_343",
+        "url": "https://nube.ine.gob.bo/index.php/s/46UABj4SVDuhK7a",
+        "note": "Consultado 2026-11-18. inaccessible_via_web_tool"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "INE_history",
+      "type": "misc",
+      "fields": {
+        "title": "INE_history",
+        "url": "https://cpv2024.ine.gob.bo/index.php/sobre-el-censo/pre-proceso-censal/pre-etapa-pre-censal/pre-actualizacion-cartografica-estadistica/conformacion-de-la-cartografia-base/",
+        "note": "Consultado 2026-11-18. available_search_excerpt"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "INE_historical_totals",
+      "type": "misc",
+      "fields": {
+        "title": "INE_historical_totals",
+        "url": "https://cpv2024.ine.gob.bo/index.php/censos-anteriores-2/",
+        "note": "Consultado 2026-11-18. available_search_excerpt"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "Q_docs",
+      "type": "misc",
+      "fields": {
+        "title": "Q_docs",
+        "url": "https://lab-tecnosocial.github.io/q-censosbo/datos/",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "censosbo_docs",
+      "type": "misc",
+      "fields": {
+        "title": "censosbo_docs",
+        "url": "https://lab-tecnosocial.github.io/censosbo/articles/censos-historicos.html",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "censosbo_release",
+      "type": "misc",
+      "fields": {
+        "title": "censosbo_release",
+        "url": "https://github.com/lab-tecnosocial/censosbo/releases",
+        "note": "Consultado 2026-11-18. metadata_preserved"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "censosbo_geo",
+      "type": "misc",
+      "fields": {
+        "title": "censosbo_geo",
+        "url": "https://github.com/lab-tecnosocial/censosbo/blob/8c25af9a031b63fe2c18afadd0e21ffcaac6b7d2/data-raw/build_geo_layers.R",
+        "note": "Consultado 2026-11-18. code_preserved"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "Q_geo",
+      "type": "misc",
+      "fields": {
+        "title": "Q_geo",
+        "url": "https://github.com/lab-tecnosocial/q-censosbo/blob/3e48bcb4b5d1dbb914797620d48f076a5301d89c/qcensosbo/data/geo_municipios.geojson",
+        "note": "Consultado 2026-11-18. connector_size_error"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "geo4_snapshot",
+      "type": "misc",
+      "fields": {
+        "title": "geo4_snapshot",
+        "url": "https://github.com/quarcs-lab/geo4bolivia/commit/5fd1dbe9b508cc6996daa62ae15b9d224094f1c4",
+        "note": "Consultado 2026-11-18. commit_reverified"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "SDSN",
+      "type": "misc",
+      "fields": {
+        "title": "SDSN",
+        "url": "https://sdsnbolivia.org/datos-espaciales/",
+        "note": "Consultado 2026-11-18. available"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "IIGEO2012",
+      "type": "misc",
+      "fields": {
+        "title": "IIGEO2012",
+        "url": "https://geonodeiigeo.umsa.bo/layers/geonode:CNPV2012/metadata_detail",
+        "note": "Consultado 2026-11-18. inaccessible"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "GeoBolivia",
+      "type": "misc",
+      "fields": {
+        "title": "GeoBolivia",
+        "url": "https://geobolivia.planificacion.gob.bo/ide-epb/",
+        "note": "Consultado 2026-11-18. timeout"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "IPUMS1992",
+      "type": "misc",
+      "fields": {
+        "title": "IPUMS1992",
+        "url": "https://international.ipums.org/international-action/variables/243868",
+        "note": "Consultado 2026-11-18. search_documentation"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "OpenRedatam",
+      "type": "misc",
+      "fields": {
+        "title": "OpenRedatam",
+        "url": "https://github.com/pachadotdev/open-redatam/blob/main/pypkg/README.md",
+        "note": "Consultado 2026-11-18. code_documentation_preserved"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "CDRN",
+      "type": "misc",
+      "fields": {
+        "title": "Informacion Politico Administrativa",
+        "url": "https://cdrnbolivia.com/informacion-politico-administrativa.htm",
+        "note": "Consultado 2026-11-18; archivos suministrados por el supervisor"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "GeoBoliviaArchiveIndex",
+      "type": "misc",
+      "fields": {
+        "title": "Indice GeoBolivia respaldado en Internet Archive",
+        "url": "https://mauforonda.gitlab.io/open/doc/geobolivia/index_con_metadatos.html",
+        "note": "Consultado 2026-11-18; captura de abril 2021; estado de adquisicion en archive_geometry_review.json o geobolivia_archive_discovery.json"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "IPUMS1976GIS",
+      "type": "misc",
+      "fields": {
+        "title": "GEO2_BO1976: Bolivia, Province 1976",
+        "url": "https://international.ipums.org/international-action/variables/GEO2_BO1976",
+        "note": "Consultado 2026-11-18; provincias regionalizadas; ZIP suministrado por el supervisor"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "INEBolivia2001Redatam",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "title": "Censo Nacional de Población y Vivienda 2001: base de microdatos en formato {Redatam}",
+        "year": "2001",
+        "howpublished": "Distribución mediante el catálogo de microdatos de CELADE, División de Población de la CEPAL, plataforma Redatam",
+        "url": "https://prod.redatam.org/cdr/descargas/censos/poblacion/Cp2001BOL.zip",
+        "urldate": "2026-11-19",
+        "note": "Bolivia. Archivo Cp2001BOL.zip. El catálogo clasifica la base como Universo y anuncia 113 MB. El año 2001 corresponde al censo, no a una fecha verificada de publicación del ZIP. Catálogo de procedencia: https://redatam.org/es/microdatos"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/CPV2001_Redatam.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "CELADE_Redatam_Microdatos",
+      "type": "misc",
+      "fields": {
+        "author": "{Comisión Económica para América Latina y el Caribe, CELADE, División de Población}",
+        "title": "Microdatos censales: Censos de Población y Vivienda",
+        "howpublished": "Catálogo de descargas de Redatam",
+        "url": "https://redatam.org/es/microdatos",
+        "urldate": "2026-11-19",
+        "note": "Entrada Bolivia, INE, 2001; tipo Universo; archivo CP2001BOL.zip; tamaño anunciado 113 MB. Fecha de publicación del catálogo no identificada"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+        "Outputs/Contract_01/Deliverables/CPV2001_Redatam.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "VillaTunari_concejo2021",
+      "type": "misc",
+      "fields": {
+        "title": "Concejo Municipal: Rendición Pública de Cuentas Inicial 2021",
+        "author": "{Concejo Municipal de Villa Tunari}",
+        "year": "2021",
+        "url": "https://villatunari.gob.bo/uploads/documento/rendicion-publica-de-cuentas-inicial-gestin-2021concejo_e0572b361e67612.pdf",
+        "urldate": "2026-11-19",
+        "note": "PDF oficial leído, 23 páginas. Referencia: 16-19. Estado histórico2021. No se verificó el estado legal actual de esos procesos."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "VillaTunari_ptdi2016",
+      "type": "misc",
+      "fields": {
+        "title": "Plan Territorial de Desarrollo Integral de Villa Tunari 2016–2020",
+        "author": "{Gobierno Autónomo Municipal de Villa Tunari}",
+        "year": "2016",
+        "url": "https://www.villatunari.gob.bo/uploads/documento/ptdi_edacee518807983.pdf",
+        "urldate": "2026-11-19",
+        "note": "Tablas y apartados indexados por buscador; PDF completo excede límite de lectura web, no descargado. Referencia: Secciones2.1.1.5–2.1.1.6.2; tablas de comunidades. No equivale al mapa339. Área declarada19.749,84km2 difiere del polígono339 calculado. No se determinó la causa. La central de4 de Octubre difiere entre la tabla indexada2016 y la jerarquía2001; conservar ambas."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "VillaTunari_electric2023",
+      "type": "misc",
+      "fields": {
+        "title": "Acta de conformidad: electrificación rural Parque Isiboro Sécure, municipio Villa Tunari",
+        "author": "{ELFEC / ENDE, Unidad Ejecutora PER II}",
+        "year": "2023",
+        "url": "https://es.scribd.com/document/737094437/ACTA-CONFORMIDAD-isiboro-secure-V4",
+        "urldate": "2026-11-19",
+        "note": "Copia del acta técnica alojada por un tercero; texto leído. Referencia: 1–3; fecha25 enero2023. No se recuperaron planos ni coordenadas. Los nombres son pistas, no equivalencias automáticas con códigos2001; los beneficiarios son familias del proyecto, no población censal."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "VillaTunari_ende2022",
+      "type": "misc",
+      "fields": {
+        "title": "Memoria anual ENDE2022",
+        "author": "{ENDE Corporación}",
+        "year": "2022",
+        "url": "https://www.ende.bo/public/memorias/memoria_2022.pdf",
+        "urldate": "2026-11-19",
+        "note": "Tabla oficial indexada por buscador. Referencia: Programa de Electrificación Rural II; proyectos concluidos. La tabla no valida independientemente cada nombre ni sus coordenadas."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "VillaTunari_ds9244",
+      "type": "misc",
+      "fields": {
+        "title": "Decreto Supremo9244,4 de junio de1970",
+        "author": "{República de Bolivia}",
+        "year": "1970",
+        "url": "https://www.lexivox.org/norms/BO-DS-9244.html",
+        "urldate": "2026-11-19",
+        "note": "Texto de la norma reproducido por Lexivox; creación corroborada en informes municipales. Referencia: Artículos1–2. El texto consultado no contiene coordenadas para nuestras28 unidades ni una correspondencia con el polígono339."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "VillaTunari_ds22610",
+      "type": "misc",
+      "fields": {
+        "title": "Decreto Supremo22610,24 de septiembre de1990",
+        "author": "{República de Bolivia}",
+        "year": "1990",
+        "url": "https://www.lexivox.org/norms/BO-DS-22610.html",
+        "urldate": "2026-11-19",
+        "note": "Texto de la norma reproducido por Lexivox. Referencia: Artículos1–5. No utilizar la línea roja como límite municipal ni como concordancia de códigos censales."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "VillaTunari_ine2024",
+      "type": "misc",
+      "fields": {
+        "title": "Encuentro técnico del INE con Villa Tunari y Tiraque",
+        "author": "{Instituto Nacional de Estadística}",
+        "year": "2024",
+        "url": "https://cpv2024.ine.gob.bo/index.php/encuentro-tecnico-entre-el-ine-con-autoridades-de-villa-tunari-y-tiraque-pone-fin-conflicto-de-limites",
+        "urldate": "2026-11-19",
+        "note": "Comunicado oficial leído. Referencia: Comunicado5 marzo2024. Trata Villa Tunari–Tiraque; no resuelve por sí mismo los casos del norte/TIPNIS."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_7c343cb1dab4",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha resumen Censo de Población y Vivienda 2012: listado de comunidades",
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "year": "2012",
+        "url": "https://fichacomunidad.ine.gob.bo",
+        "urldate": "2026-11-19",
+        "note": "Portal oficial consultado. Define comunidad estadística, que puede comprender varias localidades. Año del censo; fecha de publicación no verificada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_7bf45d38d6fa",
+      "type": "misc",
+      "fields": {
+        "title": "CNPV 2012: Sexo, inscripción en Registro Civil y tenencia de cédula, por ciudad/comunidad",
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "year": "2012",
+        "urldate": "2026-11-19",
+        "note": "Original suministrado: Inputs/Censo 2012/Censo 2012/Fichas por comunidad/Sexo\\_InscripcionRegistroCivil\\_TenenciaCedula.xlsx. Tabla agregada, no microdatos. Se verificaron las 327 filas de Villa Tunari contra el original. SHA-256: e3c093a7309727e148cb94b7661d27fb699f074153eb79b48972f87862b85ce0"
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_01566f9e8403",
+      "type": "misc",
+      "fields": {
+        "title": "CNPV 2012: distribución Redatam CPV2012Comunidad",
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "year": "2012",
+        "urldate": "2026-11-19",
+        "note": "Original suministrado: Inputs/Censo 2012/Censo 2012/Base Redatam/CPV2012Comunidad.dicx. En la distribución revisada MUNIC es padre directo de VIVIENDA; el nombre del archivo no prueba detalle comunitario."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_e3fba400be98",
+      "type": "misc",
+      "fields": {
+        "title": "CPV 2024: Base de datos Redatam 7",
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "year": "2024",
+        "urldate": "2026-11-19",
+        "note": "Original suministrado: Inputs/CPV2024/Base de datos Redatam 7.zip, miembro base/CEN24.dicX. Municipio es el nivel geográfico identificable en la jerarquía revisada. Año del censo; diccionario fechado 2025."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_39673c1fbaf9",
+      "type": "misc",
+      "fields": {
+        "title": "censosbo: geometrías de comunidades rurales del CPV 2024",
+        "author": "{Lab TecnoSocial}",
+        "url": "https://lab-tecnosocial.github.io/censosbo/reference/get_geo_comunidades.html",
+        "urldate": "2026-11-19",
+        "note": "Documentación consultada: puntos representativos, códigos y CRS EPSG:4326."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_52fd92981501",
+      "type": "misc",
+      "fields": {
+        "title": "censosbo: funciones de fichas y geometrías 2024",
+        "author": "{Lab TecnoSocial}",
+        "url": "https://github.com/lab-tecnosocial/censosbo/blob/main/R/get_fichas.R",
+        "urldate": "2026-11-19",
+        "note": "Código inspeccionado mediante conector GitHub. Blob SHA: 4a270aa94a8f1ff9e296a4f8c4a1f2e1e20f9f41."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_7b1839dc8d2e",
+      "type": "misc",
+      "fields": {
+        "title": "censosbo: cliente del API público del geoportal INE",
+        "author": "{Lab TecnoSocial}",
+        "url": "https://github.com/lab-tecnosocial/censosbo/blob/main/data-raw/fichas/ine_api.py",
+        "urldate": "2026-11-19",
+        "note": "Código inspeccionado como documentación de procedencia. El intento independiente de acceso directo al INE falló con WinError10013. No se recuperaron datos mediante este API."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_45ead5734d06",
+      "type": "misc",
+      "fields": {
+        "title": "censosbo: conversión de geometrías del geoportal a Parquet",
+        "author": "{Lab TecnoSocial}",
+        "url": "https://github.com/lab-tecnosocial/censosbo/blob/main/data-raw/fichas/construir_geometrias.py",
+        "urldate": "2026-11-19",
+        "note": "Código de transformación inspeccionado. Datos derivados del INE; geometría WKB en EPSG:4326."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "GeoBolivia_CNA2013_communities",
+      "type": "misc",
+      "fields": {
+        "title": "Censo Nacional Agropecuario 2013, Bolivia: capa de comunidades",
+        "author": "{Instituto Nacional de Estadística de Bolivia; distribución Viceministerio de Defensa Civil / GeoBolivia}",
+        "year": "2013",
+        "url": "https://archive.org/download/mddef.Comunidades_cna_2013/mddef:Comunidades_cna_2013.geojson",
+        "urldate": "2026-11-19",
+        "note": "Copia del archivo GeoBolivia preservada en Internet Archive, consultada y descargada el 2026-11-19. 22393 puntos. El catálogo atribuye la información a Defensa Civil, obtenida el 2020-08-29. Año2013 es la referencia censal; fecha de cada coordenada no verificada. cod\\_ine cotejado con id\\_unico del agregado CNA2013. No se usan sus estadísticas como población2001."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "GeoBolivia_CPV2012_communities",
+      "type": "misc",
+      "fields": {
+        "title": "Centros poblados de Bolivia: CNPV 2012",
+        "author": "{GeoBolivia; fuente cartográfica declarada Instituto Nacional de Estadística de Bolivia}",
+        "year": "2012",
+        "url": "https://archive.org/download/fondos.comunidades_2012/fondos:comunidades_2012.geojson",
+        "urldate": "2026-11-19",
+        "note": "Copia preservada en Internet Archive, descargada el 2026-11-19. 23940 puntos,23764 identificadores id\\_unico distintos. El catálogo describe digitalización desde el WMS del INE. Capa derivada; duplicados conservados. Año censal y fecha de coordenadas se distinguen."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "INE_CNA2013_community_catalog_local",
+      "type": "misc",
+      "fields": {
+        "title": "Censo Agropecuario2013: catálogo de comunidades, cat\\_comunidades.csv",
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "year": "2013",
+        "urldate": "2026-11-19",
+        "note": "Original suministrado: Inputs/Censo Agropecuario2013.rar; miembro Censo Agropecuario2013/BD Excel Comunidades Agregadas/cat\\_comunidades.csv (los espacios originales constan en el manifiesto).19202 filas. Campos folio y nombre\\_verificado. UTF-8. Folio normalizado a8 dígitos sin alterar el original."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "INE_CNA2013_community_aggregate_local",
+      "type": "misc",
+      "fields": {
+        "title": "Censo Agropecuario2013: base comunitaria agregada y diccionario",
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "year": "2013",
+        "urldate": "2026-11-19",
+        "note": "Original suministrado: Inputs/Censo Agropecuario2013.rar; carpeta BD Excel Comunidades Agregadas; base\\_comunidad.csv y dicc\\_comunidad.xlsx.32379 registros en la base. Se usan codmun, areacensal, foliocomunal\\_original e id\\_unico para el enlace; no se interpretan los registros como personas ni los dígitos del identificador como coordenadas."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "VillaTunari_Demandas2003",
+      "type": "misc",
+      "fields": {
+        "title": "Demandas comunales — Municipio de Villa Tunari",
+        "author": "{Gobierno Municipal de Villa Tunari}",
+        "year": "2003",
+        "url": "https://tipnisboliviaorg.wordpress.com/wp-content/uploads/2018/11/ges-plan-gmvt-00459-2003.pdf",
+        "urldate": "2026-11-19",
+        "note": "Anexo municipal, copia preservada en TIPNIS Bolivia. Año indicado por archivo y contexto del plan. Lectura web del texto indexado, no descarga ni revisión visual completa."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "CEDESCO_SendaNueva_VillaSanJose_2014_2015",
+      "type": "misc",
+      "fields": {
+        "title": "Provisión de agua potable, gestión comunitaria y educación sanitaria en la comunidad indígena Nueva América del Municipio de Villa Tunari — Bolivia",
+        "url": "https://granissat.com/j/ms9k/proyecto/provision-de-agua-potable-gestion-comunitaria-y-educacion-sanitaria-en-la-comunidad-indigena-nueva-america-del-municipio-de-villa-tunari-bolivia",
+        "urldate": "2026-11-19",
+        "note": "Ficha de proyecto consultada mediante resultado web indexado. Socia local CEDESCO. Periodo enero2014–julio2015, no fecha de publicación verificada. El título dice Nueva América y el cuerpo identifica Senda Nueva y Villa San José: se conserva esta discrepancia."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "ELFEC_MayuPata_2025",
+      "type": "misc",
+      "fields": {
+        "title": "Cortes programados Trópico del25/11/2025 al26/11/2025",
+        "author": "{ELFEC}",
+        "year": "2025",
+        "url": "https://www.elfec.bo/index.php/node/2972",
+        "urldate": "2026-11-19",
+        "note": "Aviso indexado consultado el2026-11-19. La apertura directa devolvió cache miss. Evidencia posterior, no coordenadas2001."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_45d3ada956f5",
+      "type": "misc",
+      "fields": {
+        "title": "CPV 2024: puntos de comunidades rurales",
+        "author": "{Instituto Nacional de Estadística de Bolivia; distribución Lab TecnoSocial}",
+        "year": "2024",
+        "url": "https://github.com/lab-tecnosocial/censosbo/releases/download/data-fichas-v1.0.0/geo_comunidad.parquet",
+        "urldate": "2026-11-19",
+        "note": "Fuente original declarada: Geoportal INE. Copia derivada descargada de censosbo, versión data-fichas-v1.0.0, publicada 2026-07-27T23:10:04Z. Archivo geo\\_comunidad.parquet. Digest publicado verificado: sha256:053c979207023caf21c655ce7cd4c17f2383587d30114ce2612cfe09fec457c7. Año del censo distinto del año de distribución."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_ea8f514fc4b4",
+      "type": "misc",
+      "fields": {
+        "title": "CPV 2024: universo de unidades censales y conteos",
+        "author": "{Instituto Nacional de Estadística de Bolivia; distribución Lab TecnoSocial}",
+        "year": "2024",
+        "url": "https://github.com/lab-tecnosocial/censosbo/releases/download/data-fichas-v1.0.0/unidad.parquet",
+        "urldate": "2026-11-19",
+        "note": "Fuente original declarada: Geoportal INE. Copia derivada descargada de censosbo, versión data-fichas-v1.0.0, publicada 2026-07-27T23:10:04Z. Archivo unidad.parquet. Digest publicado verificado: sha256:73b483f4865cd5a95e39cd2f3babc35b2b6d909560a0835b856f93da1261d090. Año del censo distinto del año de distribución."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_4d13f8f1ef74",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N8634286985",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N8634286985",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_67793eb72ea4",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: P175672-ffc77771-b2b8-4ee5-b77d-680a581b4659.pdf",
+        "url": "https://documents1.worldbank.org/curated/en/099112024165074494/pdf/P175672-ffc77771-b2b8-4ee5-b77d-680a581b4659.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_9ad301515c96",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W351505746",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/W351505746",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_4027910bcb1a",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W711594957",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/W711594957",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_77c9851f053d",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: ges-plan-gmvt-00458-2003-pdf",
+        "url": "https://es.scribd.com/document/443335932/ges-plan-gmvt-00458-2003-pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_1672fbf89aab",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N9000345600",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N9000345600",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_85ff463263e4",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: La-Cultura-de-los-Yuracarés-Parte-3-4110kb.pdf",
+        "url": "https://www.andesacd.org/wp-content/uploads/2011/02/La-Cultura-de-los-Yuracar%C3%A9s-Parte-3-4110kb.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_18b3b9768e37",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N8657397062",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N8657397062",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_205f214c3d86",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W711717197",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/W711717197",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_8c27ab1fc3bc",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N6177690205",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N6177690205",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_92e74a6b809f",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: Trayectoria-Histórica-y-Cultural-de-los-Trinitarios-2440kb.pdf",
+        "url": "https://www.andesacd.org/wp-content/uploads/2011/10/Trayectoria-Hist%C3%B3rica-y-Cultural-de-los-Trinitarios-2440kb.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_d70bb9174fd2",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N2541348695",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N2541348695",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_f814c0a53abc",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N6690361123",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N6690361123",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_a86bf8addbf1",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: Estab\\_Cochabamba.pdf",
+        "url": "https://www.minsalud.gob.bo/images/web/SUS/Estab_Cochabamba.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_59a6c368b56e",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W542169550",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/W542169550",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_0483aff766ce",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5736774648",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N5736774648",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_e885d0038006",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5106721411",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N5106721411",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_82ad42edc06c",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N7030578703",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N7030578703",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_c7431361f0c5",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: POA-2019",
+        "url": "https://es.scribd.com/document/648618945/POA-2019",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_42cd08f81d2f",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N3572971633",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N3572971633",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_e5687024232f",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5241429563",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N5241429563",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_cf7cd540bbc2",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N7034579474",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N7034579474",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_a39ee546edbf",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5914455210",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N5914455210",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_4091de151c7e",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N3572135559",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N3572135559",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_665968de96f8",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N3572135494",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N3572135494",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_8fd4ca724d71",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W752699325",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/W752699325",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_510b16df36a8",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5200669206",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N5200669206",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_431f4887dccd",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N7035038944",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N7035038944",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_9234ac99e5e6",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W945604252",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/W945604252",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_0c59829a494b",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W753303474",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/W753303474",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_522a0fe0174a",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W630324235",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/W630324235",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_bbde904e3756",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: creacion-de-nidos-bilingues-en-la-comunidad-limo-del-isiboro",
+        "url": "https://prensa.ipelc.gob.bo/creacion-de-nidos-bilingues-en-la-comunidad-limo-del-isiboro",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_cbd4000ffd65",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W945604252",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/W945604252",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_c42ada322ae6",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: COLISEO-SERRADO",
+        "url": "https://es.scribd.com/document/749149973/COLISEO-SERRADO",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_8fdb00e46a9e",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N7034612515",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N7034612515",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_13e27356aa63",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: rpcinicial-gestion-2022\\_782f2e313aacf01.pdf",
+        "url": "https://www.villatunari.gob.bo/uploads/documento/rpcinicial-gestion-2022_782f2e313aacf01.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_f2bf7d8f3363",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N7030578716",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N7030578716",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_490657b32626",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5200669206",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N5200669206",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_1b6af1403b11",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N11399087548",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N11399087548",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_f8e1f3a082aa",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5197670835",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N5197670835",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_9dc97494acf1",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5623425143",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/N5623425143",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_d0af2f3746e9",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N5914455210",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N5914455210",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_62570663c8a3",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: 04\\_22\\_anexo\\_-\\_3\\_resolucion\\_463-2013\\_19-08-2013.pdf",
+        "url": "https://www.elfec.bo/sites/default/files/consejos/04_22_anexo_-_3_resolucion_463-2013_19-08-2013.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_d226b3f3648c",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta W351445798",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/W351445798",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_b87737238306",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N7033793174",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N7033793174",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_4b3d4e384dec",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: Punata\\_Magica\\_Y\\_Sus\\_Realidades\\_Hernan\\_Walter\\_Ortuno.pdf",
+        "url": "https://archivodefolkloreboliviano.org/wp-content/uploads/2021/08/Punata_Magica_Y_Sus_Realidades_Hernan_Walter_Ortuno.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_0751276c8d7e",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: PTDI-PUNATA",
+        "url": "https://es.scribd.com/document/543550569/PTDI-PUNATA",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_5264552302c3",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: TomoIItrim32019.pdf",
+        "url": "https://tcpbolivia.bo/wp-content/uploads/2025/03/TomoIItrim32019.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_f586441471e2",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: 2023-e07b8-Santa-Cruz-2023-libro.pdf",
+        "url": "https://siip.produccion.gob.bo/noticias/files/2023-e07b8-Santa-Cruz-2023-libro.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_1dc7c25ebcfa",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: ubicacion\\_recintos\\_electorales\\_santa\\_cruz.pdf",
+        "url": "https://santacruz.oep.org.bo/wp-content/uploads/2020/10/ubicacion_recintos_electorales_santa_cruz.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_c10f162b2e80",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: 11932548\\_02.pdf",
+        "url": "https://openjicareport.jica.go.jp/pdf/11932548_02.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_9cccda29a6a0",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: 12026100\\_01.pdf",
+        "url": "https://openjicareport.jica.go.jp/pdf/12026100_01.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_52a9a1b46fe9",
+      "type": "misc",
+      "fields": {
+        "title": "Ficha cartográfica Mapcarta N3272728038",
+        "author": "{Mapcarta}",
+        "url": "https://mapcarta.com/es/N3272728038",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_07c6376a1dad",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: PLANO\\_TERRITORIO\\_INDIGENA\\_MULTIETNICO\\_TIM.pdf",
+        "url": "https://www.oep.org.bo/aioc/wp-content/uploads/sites/6/2017/04/PLANO_TERRITORIO_INDIGENA_MULTIETNICO_TIM.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_4aedf318b6ca",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: PTDI-2021-2025-GAM-PUNATA-15-09-2022-Jueves",
+        "url": "https://www.scribd.com/document/1022401095/PTDI-2021-2025-GAM-PUNATA-15-09-2022-Jueves",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_cb25a696c092",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: fernandezalonso.php",
+        "url": "https://www.amdecruz.com/municipios/fernandezalonso.php",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_a555c37281e2",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: Definicion\\_de\\_Limites\\_Jurisdiccionales",
+        "url": "https://www.academia.edu/30422569/Definicion_de_Limites_Jurisdiccionales",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "LocalityRef_6deb9b6e5794",
+      "type": "misc",
+      "fields": {
+        "title": "Documento citado en la revisión de localidades: ptdi-gya\\_74dae10e752e040.pdf",
+        "url": "https://guayaramerin.gob.bo/uploads/documento/ptdi-gya_74dae10e752e040.pdf",
+        "urldate": "2026-11-19",
+        "note": "Referencia utilizada en evidencia previa de localidades2001. Título descriptivo cuando no hay metadatos bibliográficos verificados; autor y fecha no inferidos del dominio ni de la ruta. Alcance y limitaciones en la fila de evidencia citada."
+      },
+      "group": "dictionary",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib"
+      ]
+    },
+    {
+      "key": "INEBolivia2001ANDA",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "title": "Censo Nacional de Población y Vivienda 2001: documentación del estudio",
+        "year": "2001",
+        "howpublished": "Archivo Nacional de Datos, catálogo 10, identificador BOL-INE-CNPV-2001",
+        "url": "https://anda.ine.gob.bo/index.php/catalog/10",
+        "urldate": "2026-11-19",
+        "note": "El año corresponde al censo. La ficha identifica al INE como productor y describe los módulos de vivienda, hogar y población. Documentación del estudio; no constituye validación del contenido específico del ZIP distribuido por Redatam"
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2001_Redatam.bib",
+        "Outputs/Contract_01/Deliverables/07_SOURCES.bib"
+      ]
+    },
+    {
+      "key": "INE2024_I00",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadistica de Bolivia}",
+        "title": "Censo de Poblacion y Vivienda2024: Nro. de vivienda (I00)",
+        "year": "2024",
+        "url": "https://fm.ine.gob.bo/index.php/catalog/132/variable/F10/V413?name=I00",
+        "urldate": "2026-11-19",
+        "note": "Etiqueta consultada en resultado indexado del catalogo oficial. Apertura directa con timeout. Ano del censo, no fecha de publicacion verificada. El enlace efectivo se comprobo en los CSV locales completos."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2024_harmonization_references.bib"
+      ]
+    },
+    {
+      "key": "OjedaCopa2026_censosbo_identifiers",
+      "type": "manual",
+      "fields": {
+        "author": "Alex {Ojeda Copa}",
+        "organization": "Lab TecnoSocial",
+        "title": "censosbo: Access and Analysis of Bolivian Census Microdata",
+        "year": "2026",
+        "url": "https://lab-tecnosocial.github.io/censosbo/",
+        "urldate": "2026-11-19",
+        "note": "Documenta la clave compuesta idep, iprov, imun, i00 para enlazar tablasCPV2024. No prueba una relacion entre i00 y codigos de manzanos o comunidades."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2024_harmonization_references.bib"
+      ]
+    },
+    {
+      "key": "Censosbo2026_person_dwelling_join",
+      "type": "misc",
+      "fields": {
+        "author": "{Lab TecnoSocial}",
+        "title": "Analisis avanzado con DuckDB y Arrow",
+        "url": "https://lab-tecnosocial.github.io/censosbo/articles/analisis-avanzado.html",
+        "urldate": "2026-11-19",
+        "note": "Seccion Join entre tablas: ejemplo de enlace personas-viviendas con las cuatro columnas. Diferencia el universo oficial de viviendas de la entidad completa que incluye registros de personas en calle o transito."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2024_harmonization_references.bib"
+      ]
+    },
+    {
+      "key": "Censosbo2026_unidades2024",
+      "type": "misc",
+      "fields": {
+        "author": "{Lab TecnoSocial}",
+        "title": "Accede al universo de unidades censales del CPV2024",
+        "url": "https://lab-tecnosocial.github.io/censosbo/reference/get_unidades_2024.html",
+        "urldate": "2026-11-19",
+        "note": "268604unidades agregadas por manzano o comunidad. Codigo de unidad no jerarquico; no confundir con i00 de la microdata. Documentacion inspeccionada durante el diagnostico preliminar de armonizacion."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2024_harmonization_references.bib"
+      ]
+    },
+    {
+      "key": "Censosbo2026_geometries2024",
+      "type": "misc",
+      "fields": {
+        "author": "{Lab TecnoSocial}",
+        "title": "Descarga las geometrias de los manzanos urbanos del CPV2024",
+        "url": "https://lab-tecnosocial.github.io/censosbo/reference/get_geo_manzanos.html",
+        "urldate": "2026-11-19",
+        "note": "PoligonosEPSG4326 por departamento. Disponibilidad documentada, no se descargaron para esta inspeccion de identificadores."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2024_harmonization_references.bib"
+      ]
+    },
+    {
+      "key": "Censosbo2026_get_fichas_source",
+      "type": "misc",
+      "fields": {
+        "author": "{Lab TecnoSocial}",
+        "title": "Codigo fuente R/get_fichas.R",
+        "url": "https://github.com/lab-tecnosocial/censosbo/blob/main/R/get_fichas.R",
+        "urldate": "2026-11-19",
+        "note": "Inspeccionado mediante conectorGitHub. Fuente declarada de unidades y fichas:GeoportalINE. Microdatos y agregados son fuentes distintas. URLmain mutable; para ejecutar un pipeline se debe fijar version."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2024_harmonization_references.bib"
+      ]
+    },
+    {
+      "key": "INE_CPV2024_CSV_i00_audit",
+      "type": "dataset",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "title": "Censo de Población y Vivienda 2024: distribución CSV, entidad Vivienda",
+        "year": "2024",
+        "note": "Original suministrado por el supervisor: Inputs/CPV2024/Base de datos CSV/Vivienda_CPV-2024.csv, 490862565 bytes. Recorrido completo de 4490488 registros para diagnóstico estructural de i00, 19 de noviembre de 2026. Universo de entidad, no universo oficial de viviendas."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2024_i00_estructura_references.bib"
+      ]
+    },
+    {
+      "key": "INE_CPV2024_I00_definition",
+      "type": "online",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística de Bolivia}",
+        "title": "Censo de Población y Vivienda 2024: Nro. de vivienda (I00)",
+        "url": "https://fm.ine.gob.bo/index.php/catalog/132/variable/F10/V413?name=I00",
+        "urldate": "2026-11-19",
+        "note": "Ficha consultada mediante resultado indexado del catálogo; apertura directa con timeout. Describe número de vivienda y recorrido del predio. No documenta una codificación de manzano ni el procedimiento que generó el correlativo nacional observado en el CSV."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/CPV2024_i00_estructura_references.bib"
+      ]
+    },
+    {
+      "key": "Ayala_GeoCenso2024_local",
+      "type": "software",
+      "fields": {
+        "author": "Ayala Niño de Guzmán, Jorge",
+        "title": "GeoCenso2024: complemento QGIS, archivo suministrado por el supervisor",
+        "version": "1.9 según metadata.txt",
+        "note": "Archivo Inputs/CPV2024/GeoCenso2024v1.8.zip. El nombre indica 1.8 y README_INSTALACION menciona 1.2. Inspección estática del paquete; no se instaló ni ejecutó. Consultado el 19 de noviembre de 2026."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/GeoCenso2024_references.bib"
+      ]
+    },
+    {
+      "key": "Ayala_QGISCenso2024_repository",
+      "type": "software",
+      "fields": {
+        "author": "Ayala Niño de Guzmán, Jorge",
+        "title": "QGISCenso2024: código y datos geográficos del Censo 2024",
+        "url": "https://github.com/umayakuy/QGISCenso2024",
+        "urldate": "2026-11-19",
+        "note": "Árbol Git consultado: 0c65d9eab50233731a2e75c4d8448af309a14ba2. Inventario completo de rutas; inspección de cinco archivos de muestra U101/U1011, sin afirmar validación nacional de registros. SHA de blobs y SHA256 preservados en sample_schemas.json."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/GeoCenso2024_references.bib"
+      ]
+    },
+    {
+      "key": "Ayala_QGISCenso2024_README",
+      "type": "online",
+      "fields": {
+        "author": "Ayala Niño de Guzmán, Jorge",
+        "title": "GeoCenso2024: documentación de procedencia y estandarización de poblaciones",
+        "url": "https://github.com/umayakuy/QGISCenso2024/blob/main/README.md",
+        "urldate": "2026-11-19",
+        "note": "Declara fichas resumen del Geoportal INE como fuente, codificación adaptada y centroides de grupos de polígonos para representar poblaciones urbanas. Copia de lectura preservada en Evidence/Sources/GeoCenso2024/repository_README.md."
+      },
+      "group": "background",
+      "sources": [
+        "Outputs/Contract_01/Deliverables/GeoCenso2024_references.bib"
+      ]
+    },
+    {
+      "key": "ine_cpv1976",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censo Nacional de Población y Vivienda 1976}",
+        "year": "1976",
+        "publisher": "Instituto Nacional de Estadística",
+        "url": "https://nube.ine.gob.bo/index.php/s/aBWS4YxlY0EKWIY/download",
+        "urldate": "2026-11-18",
+        "howpublished": "INE census data distribution",
+        "note": "Year denotes census reference year; distribution publication date unspecified. Population and dwelling SPSS files and questionnaire inspected."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "ine_cpv1992",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censo Nacional de Población y Vivienda 1992}",
+        "year": "1992",
+        "publisher": "Instituto Nacional de Estadística",
+        "url": "https://nube.ine.gob.bo/index.php/s/enxTtfLJo2qSzrE/download",
+        "urldate": "2026-11-18",
+        "howpublished": "INE census data distribution",
+        "note": "Year denotes census reference year; distribution publication date unspecified. Redatam dictionary and selected municipal profile inspected. Folder contains mixed-reference-year profile material."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "ine_cpv2001",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censo Nacional de Población y Vivienda 2001}",
+        "year": "2001",
+        "publisher": "Instituto Nacional de Estadística",
+        "url": "https://nube.ine.gob.bo/index.php/s/zqqfpuNQpNsdO6Q/download",
+        "urldate": "2026-11-18",
+        "howpublished": "INE census data distribution",
+        "note": "Year denotes census reference year; distribution publication date unspecified. Local SPSS files contain community aggregates with 339 distinct municipal keys. This does not establish the geographic vintage."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "ine_cpv2012",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censo Nacional de Población y Vivienda 2012}",
+        "year": "2012",
+        "publisher": "Instituto Nacional de Estadística",
+        "url": "https://nube.ine.gob.bo/index.php/s/bROAGTD7pFvBP1f/download",
+        "urldate": "2026-11-18",
+        "howpublished": "INE census data distribution",
+        "note": "Year denotes census reference year; distribution publication date unspecified. Redatam dictionary and community workbooks inspected; map vintage requires verification."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "ine_cpv2024",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censo de Población y Vivienda 2024}",
+        "year": "2024",
+        "publisher": "Instituto Nacional de Estadística",
+        "url": "https://nimbus.ine.gob.bo/index.php/s/HNmazKRppT786ZA/download",
+        "urldate": "2026-11-18",
+        "howpublished": "INE census data distribution",
+        "note": "Year denotes census reference year; distribution publication date unspecified. Local CSV, Redatam 7 and Redatam X archives inventoried. CSV headers and workbook dictionary inspected; exact equality to the current linked download has not been established."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "ine_cna2013",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censo Nacional Agropecuario 2013}",
+        "year": "2013",
+        "publisher": "Instituto Nacional de Estadística",
+        "url": "https://nube.ine.gob.bo/index.php/s/mG9uBrzCrFBh3Eu/download",
+        "urldate": "2026-11-18",
+        "howpublished": "INE census data distribution",
+        "note": "Year denotes census reference year; distribution publication date unspecified. Archive inventory and six CSV headers inspected. Supplementary agricultural source, not a population-census wave."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "ine_cpv2001_redatam343",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censo Nacional de Población y Vivienda 2001: Base REDATAM (343 Municipios)}",
+        "year": "2001",
+        "publisher": "Instituto Nacional de Estadística",
+        "url": "https://nube.ine.gob.bo/index.php/s/3X9rZTENwQknVTP/download",
+        "urldate": "2026-11-18",
+        "howpublished": "INE census data distribution",
+        "note": "Year denotes census reference year; distribution publication date unspecified. Additional distribution linked separately by INE. Not downloaded or verified against local inputs. The 343-unit label is not proof of historical boundary equivalence."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "ine_cpv2012_redatam343",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censo Nacional de Población y Vivienda 2012: Base REDATAM (343 Municipios)}",
+        "year": "2012",
+        "publisher": "Instituto Nacional de Estadística",
+        "url": "https://nube.ine.gob.bo/index.php/s/46UABj4SVDuhK7a/download",
+        "urldate": "2026-11-18",
+        "howpublished": "INE census data distribution",
+        "note": "Year denotes census reference year; distribution publication date unspecified. Additional distribution linked separately by INE. Not downloaded or verified against local inputs. Retabulation methodology needs investigation."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "ine_census_catalog",
+      "type": "misc",
+      "fields": {
+        "author": "{Instituto Nacional de Estadística (Bolivia)}",
+        "title": "{Censos}",
+        "url": "https://www.ine.gob.bo/index.php/censos-y-banco-de-datos/censos/",
+        "urldate": "2026-11-18",
+        "note": "Official landing page linking the census distributions. Publication date not stated."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "mendez_geo4bolivia_2026",
+      "type": "misc",
+      "fields": {
+        "author": "Mendez, Carlos",
+        "title": "{GeoDevelopment Observatory of Bolivia}",
+        "year": "2026",
+        "version": "0.5.0",
+        "url": "https://quarcs-lab.github.io/geo4bolivia/",
+        "urldate": "2026-11-18",
+        "note": "Metadata from CITATION.cff; release date 2026-11-17. Inspected repository commit 5fd1dbe9b508cc6996daa62ae15b9d224094f1c4. Code, data and boundary terms differ; see LICENSE-DATA."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    },
+    {
+      "key": "sdsn_municipal_boundaries_2025",
+      "type": "misc",
+      "fields": {
+        "author": "{SDSN Bolivia}",
+        "title": "{Límites Municipales Bolivia 2025}",
+        "year": "2025",
+        "howpublished": "Archivo shapefile",
+        "url": "https://sdsnbolivia.org/datos-espaciales/",
+        "urldate": "2026-11-18",
+        "note": "Citation prescribed in geo4bolivia raw/README.md and LICENSE-DATA, inspected 2026-11-18. The SDSN source page was not independently retrieved. Includes 343 municipalities and indigenous autonomies. No open license stated; geo4bolivia reports use and sharing with SDSN permission. Local candidate is a simplified web export, not the original shapefile."
+      },
+      "group": "background",
+      "sources": [
+        "References/census_sources.bib"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "path": "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/references.bib",
+      "sha256": "84437d915465459f2c84ac9eec3dcab5deb11cee0f33d9bd99fc2da1d33a6c89",
+      "entries": 10
+    },
+    {
+      "path": "Outputs/Contract_01/Deliverables/Mendez_conversion_2024_references.bib",
+      "sha256": "efb9a0a66adcfd57e53d3f2fb3694d6563362d5ec4c3f283942d5672ef2a3e94",
+      "entries": 7
+    },
+    {
+      "path": "Outputs/Contract_01/Deliverables/PopulationMaps/Panel339/referencias_2001_congeladas.bib",
+      "sha256": "6ca794830ffe6d92ff906d644968b7ac3be511ddb92a0dfa9ae09a3d1bdeec42",
+      "entries": 110
+    },
+    {
+      "path": "Outputs/Contract_01/Deliverables/CPV2001_Redatam.bib",
+      "sha256": "9b2c9d21f7a5edea706cc36a18e3582cee4ae2881301a644e0e0840755d35322",
+      "entries": 3
+    },
+    {
+      "path": "Outputs/Contract_01/Deliverables/CPV2024_harmonization_references.bib",
+      "sha256": "de98be580d550088fe7d7fe39f12ed55765c3816767fd9c54753c3c66b67dc32",
+      "entries": 6
+    },
+    {
+      "path": "Outputs/Contract_01/Deliverables/CPV2024_i00_estructura_references.bib",
+      "sha256": "10f562b473bf78240d9b4e16e890b2e7d0e8b0037e69d245ef57a12d8c9fc6a5",
+      "entries": 2
+    },
+    {
+      "path": "Outputs/Contract_01/Deliverables/GeoCenso2024_references.bib",
+      "sha256": "0a06f26b7b675baf448b5457dc3dc7f459d685845cf32195f704ca5374179738",
+      "entries": 3
+    },
+    {
+      "path": "Outputs/Contract_01/Deliverables/07_SOURCES.bib",
+      "sha256": "ecf262d7f644bb3440d22abc8034406fa85149059bdba68a13438d627146e8ea",
+      "entries": 29
+    },
+    {
+      "path": "References/census_sources.bib",
+      "sha256": "cc13346c391dd3bb69b061af8b9b87e4015f00b106885284a9a48e3d6b13ca70",
+      "entries": 11
+    }
+  ],
+  "exact_duplicates_merged": 31,
+  "key_variants_preserved": []
+}
