@@ -64,3 +64,34 @@ El código fuente, el visor interactivo y la documentación original de este rep
 ```
 
 Metadatos estructurados en [CITATION.cff](CITATION.cff).
+
+
+## Visualización compacta / Compact visualisation
+
+Los botones de 1992, 2001, 2012 y 2024 están dentro del gráfico. El panel reúne
+mapa, población nacional, detalle municipal, evolución y Top 10/Bottom 10.
+En escritorio cabe en una vista de 1366 × 768 al pulsar **Explorar**; en móvil
+se reorganiza verticalmente. Los rankings muestran nombre y población juntos.
+**Limpiar** quita el resaltado y el recuadro; zoom, enfoque y ajuste permiten
+recorrer los municipios. Fuentes y notas completas están al pie del panel.
+
+El visor usa una escala continua **logarítmica azul–amarillo–rojo**, con rango
+común a los cuatro censos: **92 a 1.610.982 personas**. La interpolación RGB
+usa cinco stops equidistantes en log10, adaptados del diseño CambodiaCensus.
+La misma población tiene el mismo color en cualquier año. No se modifican
+los valores ni la metodología de armonización. Los PNG descargables conservan
+sus ocho intervalos y paleta históricos, disponibles en un desplegable.
+
+Year buttons are embedded in the map. The green panel combines the map,
+national totals, municipal detail, four-census series and both rankings.
+**Clear** removes the highlight and selection frame. The continuous logarithmic
+blue–yellow–red scale uses one common domain, **92–1,610,982 people**, across
+all years. Values, harmonisation methods and downloads are unchanged;
+downloadable PNGs retain their historical eight classes and colours.
+
+Validation: 339 municipalities and 1,356 values preserved; 2,712 selection and
+colour states checked across both languages, 800 ranking rows checked across
+five viewport sizes, and year/clear/zoom/fit interactions tested with mouse,
+keyboard and touch. HTML remains self-contained and works offline.
+Readable enhancement sources accompany the inline code in
+`docs/Panel339/assets/interaction.css` and `interaction.js`.
