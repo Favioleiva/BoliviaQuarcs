@@ -955,7 +955,7 @@ const tip=document.getElementById('tooltip');document.querySelectorAll('.municip
       const nTot=(D.meta1976&&D.meta1976.n_areas)||D.rows.length;const nAss=nTot-nAbs;
       const pctStr=(100*D.meta1976.assigned_pop/D.meta1976.national_total).toFixed(1);
       natEl.textContent=fmt(D.meta1976.national_total);
-      statYearEl.textContent=(lang==='es'?'1976 · 98.3% exacto · 1.7% bal.':'1976 · 98.3% exact · 1.7% bal.');
+      statYearEl.textContent='1976';
       if(covNumEl)covNumEl.innerHTML=`<span>${fmt(nAss)}</span> / ${nTot}`;
       if(unassEl)unassEl.textContent=fmt(D.meta1976.unresolved_pop);
       if(dlMap){dlMap.href='population_panel_amc_1976_2024_shp.zip';dlMap.textContent='Shapefile AMC ZIP ↗';}

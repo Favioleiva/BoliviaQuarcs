@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-27T16:22:22.837338+00:00",
+  "generated_utc": "2026-11-27T16:29:59.399449+00:00",
   "repository": "https://github.com/Favioleiva/BoliviaQuarcs",
-  "source_contract": "Contract_03 (with frozen C06 Panel339 preserved)",
+  "source_contract": "Contract_03 + UI layout-shift fix (0px across 1976-2024)",
   "files_count": 72,
-  "total_bytes": 35814901,
+  "total_bytes": 35814878,
   "files": [
     {
       "path": ".gitattributes",
@@ -12,8 +12,8 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 188,
-      "sha256": "563c37f1ab7ddab19c951768a0d22eacda7af1e2dddd900eb09fc1de6b997d42"
+      "bytes": 243,
+      "sha256": "14b0dc9528f7b4660c38fa6a3494d9c9d7ab2df9bd93c0110fcf2581095f449f"
     },
     {
       "path": "CITATION.cff",
@@ -272,8 +272,8 @@
     },
     {
       "path": "docs/PanelAMC/index.html",
-      "bytes": 821426,
-      "sha256": "8a36acef8ce84ec69ca1db8e4726ec5de1762310fca5d9112df92fd99edab930"
+      "bytes": 821348,
+      "sha256": "00c25dc375ed834bf8d6951dd09edc7d2f0aa1609f5dcf82d69e72c35e7593fd"
     },
     {
       "path": "docs/PanelAMC/intersections_2024_affected10.csv",
