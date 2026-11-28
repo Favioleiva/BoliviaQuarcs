@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-27T16:29:59.399449+00:00",
+  "generated_utc": "2026-11-28T03:38:10.222839+00:00",
   "repository": "https://github.com/Favioleiva/BoliviaQuarcs",
-  "source_contract": "Contract_03 + UI layout-shift fix (0px across 1976-2024)",
-  "files_count": 72,
-  "total_bytes": 35814878,
+  "source_contract": "Contract_10 — Harmonized 5-Census Socioeconomic Megapanel (1976-2024, 193 vars, 290 AMC / 339 / 343 MPD)",
+  "files_count": 86,
+  "total_bytes": 46812848,
   "files": [
     {
       "path": ".gitattributes",
@@ -51,6 +51,11 @@
       "sha256": "3042c639e02f3f14725a322bdd3a1c99f503ceb23fafe5471c7c5e65fbf4ec54"
     },
     {
+      "path": "docs/Panel339/assets/megapanel_data.js",
+      "bytes": 1018201,
+      "sha256": "9a008a7dafa01c669e167f5ec234900ce8d2d486bd02a5bd3cc78b42b00d35e4"
+    },
+    {
       "path": "docs/Panel339/assignments_2024_affected10.csv",
       "bytes": 3807,
       "sha256": "2a3981ac3dcc8593fd6c9b04b0dbcb4c3475521455e288241fb1aaa5d42fe606"
@@ -72,8 +77,8 @@
     },
     {
       "path": "docs/Panel339/index.html",
-      "bytes": 828904,
-      "sha256": "76865858dfe445fa14f53f65c6b81f9fac735eba3b7b84980e47bf4f8c303e6e"
+      "bytes": 857069,
+      "sha256": "0b313aa9fc9e38b44014f4111e870ba6a203a3364211f8ea9860bd03319c11cc"
     },
     {
       "path": "docs/Panel339/intersections_2024_affected10.csv",
@@ -84,6 +89,21 @@
       "path": "docs/Panel339/LEEME.txt",
       "bytes": 4010,
       "sha256": "900a45f22da499069b09c417422a97de38e95339daebce851767f1c99ec91b8b"
+    },
+    {
+      "path": "docs/Panel339/megapanel_counts_long.parquet",
+      "bytes": 1381312,
+      "sha256": "297e60ac8d42441a3dbe9830b6cdc55afdf452df0be19fd9fa64033152a2a254"
+    },
+    {
+      "path": "docs/Panel339/megapanel_dictionary.csv",
+      "bytes": 11149,
+      "sha256": "5b551f2d0e30eb84401220a84fba1888fa396a5afc2de9afd29c3e68927d05bf"
+    },
+    {
+      "path": "docs/Panel339/megapanel_rates_long.parquet",
+      "bytes": 729587,
+      "sha256": "ad3b728cf381ef24dd731e92653056e485d0f8bbad689d8e61cc15c92314309f"
     },
     {
       "path": "docs/Panel339/population2024_six_reconstructed.csv",
@@ -236,6 +256,36 @@
       "sha256": "d0dc685f6cc2c3227cde53a4705f52fd491f733fc6100a0f18fca73d74ab961d"
     },
     {
+      "path": "docs/Panel343/assets/hero-day.webp",
+      "bytes": 330894,
+      "sha256": "c336d3977c9eff0a337130f3d5ab67811264fbb2b0dbdcb06a5de2ec30374983"
+    },
+    {
+      "path": "docs/Panel343/assets/megapanel_data.js",
+      "bytes": 1029083,
+      "sha256": "661acaecc8a34c633310f56c27a5466ea2dbc2d31999345999914e31548dc083"
+    },
+    {
+      "path": "docs/Panel343/index.html",
+      "bytes": 1096379,
+      "sha256": "06903f3097a81b8bda5e46350f4ea026c2ae94b71eeef2a8d3383e5c85847815"
+    },
+    {
+      "path": "docs/Panel343/megapanel_counts_long.parquet",
+      "bytes": 1391879,
+      "sha256": "1b022d393272b0fba249e2d2acf7dd091a2fa9e074dd0876b0ec3ccd00122cb0"
+    },
+    {
+      "path": "docs/Panel343/megapanel_dictionary.csv",
+      "bytes": 11149,
+      "sha256": "48b2d2fce60af14aae0f7797bc27716b664477c490e52a17b3170883e36c7740"
+    },
+    {
+      "path": "docs/Panel343/megapanel_rates_long.parquet",
+      "bytes": 741513,
+      "sha256": "4cf357d79f2757ca84d0e96c66d7f6d01258e0e8649c5f645ac025695db6613b"
+    },
+    {
       "path": "docs/PanelAMC/amc_to_geo4bolivia339_bridge.csv",
       "bytes": 49273,
       "sha256": "2c96215b774e334094acfc42f49499a8d1990eea6725311199baa3fcd6879741"
@@ -256,6 +306,11 @@
       "sha256": "9990cb9ce28c9a0338996f2422b0285bee277bf3288e8bdbd28b162745ff45b3"
     },
     {
+      "path": "docs/PanelAMC/assets/megapanel_data.js",
+      "bytes": 1035266,
+      "sha256": "60921c5c18a786a32b26b725b473f83649997e890acd6f5cda509e9e15814744"
+    },
+    {
       "path": "docs/PanelAMC/code_bridge_2024_seven_corrections.csv",
       "bytes": 2923,
       "sha256": "525b9ecfb26373214c646402b0b424adaf209c5b926dcfdf3fc5df7f55ab1cab"
@@ -272,8 +327,8 @@
     },
     {
       "path": "docs/PanelAMC/index.html",
-      "bytes": 821348,
-      "sha256": "00c25dc375ed834bf8d6951dd09edc7d2f0aa1609f5dcf82d69e72c35e7593fd"
+      "bytes": 849565,
+      "sha256": "9251d5f539df0241e4fce1cbd08aa74fb5ac0ddf2eb2b5fdfedafc8b0a635882"
     },
     {
       "path": "docs/PanelAMC/intersections_2024_affected10.csv",
@@ -284,6 +339,21 @@
       "path": "docs/PanelAMC/LEEME.txt",
       "bytes": 957,
       "sha256": "18eba86fb3d76bfb529ff550c0832337f666da9207da96798bfc22fecacdf0f5"
+    },
+    {
+      "path": "docs/PanelAMC/megapanel_counts_long.parquet",
+      "bytes": 1406136,
+      "sha256": "f23750446f40843b9cc4b57fc33d69b19e25acf5b6ec7e96075452211ea4cb83"
+    },
+    {
+      "path": "docs/PanelAMC/megapanel_dictionary.csv",
+      "bytes": 11914,
+      "sha256": "10dc0ad673cc8fc620effcfbe5931a1b4c9a408f75fd68790c0951c9b8d9388d"
+    },
+    {
+      "path": "docs/PanelAMC/megapanel_rates_long.parquet",
+      "bytes": 747126,
+      "sha256": "579dc1b8b43116e883d52fd40c209f3af57b0cfd15e9d068fbedca4ba3825178"
     },
     {
       "path": "docs/PanelAMC/population2024_six_reconstructed.csv",
